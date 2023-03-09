@@ -1,0 +1,807 @@
+﻿RaceID,Date,Meet,State,RaceNo,Winner,Opening,Starting,Fluctuation,FlucCat,PercFlucCat,PercentDiff,1BiggestFluc,2BiggestFluc,Jockey,Trainer,Ground,GroundCat,Favourite,Top2Flucs
+1,15/12/22,Hawkesbury,New South Wales,7,Baranof,4.6,3,1.6,Minimal,Decent,0.347826087,NO,NO,Joshua Parr,John Thompson,3,Good,YES,0
+2,15/12/22,Kyneton,Victoria,8,Duke Of Neworleans,46,20,26,Huge,Big,0.565217391,NO,YES,Jarrod Fry,P A Chow,5,Soft,NO,1
+3,15/12/22,Hawkesbury,New South Wales,1,Hamaki,2.25,1.8,0.45,Minimal,Decent,0.2,NO,YES,Joshua Parr,P & P Snowden,3,Good,YES,1
+4,16/12/22,Goulburn,New South Wales,1,Raffish,2.1,2.6,-0.5,Negative,None/Negative,-0.238095238,NO,NO,Koby Jennings,James Ponsonby,4,Good,YES,0
+5,16/12/22,Goulburn,New South Wales,2,Master Joe,3.1,1.7,1.4,Minimal,Big,0.451612903,NO,YES,Jeff Penza,Scott Collings,4,Good,YES,1
+6,16/12/22,Goulburn,New South Wales,3,Mo More Chicken,7.5,9,-1.5,Negative,None/Negative,-0.2,NO,NO,Jeff Penza,N J Osborne,4,Good,NO,0
+7,16/12/22,Goulburn,New South Wales,4,Nieces and Nephews,3.5,3.7,-0.2,Negative,None/Negative,-0.057142857,NO,NO,Ryan Bradley,B Joseph & P & M Jones,4,Good,NO,0
+8,16/12/22,Goulburn,New South Wales,5,Jasiri,5,3.7,1.3,Minimal,Decent,0.26,NO,NO,Koby Jennings,M & W & J Hawkes,4,Good,YES,0
+9,16/12/22,Goulburn,New South Wales,6,Twig,3.9,5,-1.1,Negative,None/Negative,-0.282051282,NO,NO,Amy Mclucas,Matthew Dale,4,Good,NO,0
+10,16/12/22,Goulburn,New South Wales,7,Semana,2.3,1.75,0.55,Minimal,Decent,0.239130435,NO,YES,Jeff Penza,C Maher & D Eustace,4,Good,YES,1
+11,16/12/22,Geelong,Victoria,1,Doublern,3.7,3.1,0.6,Minimal,Minimal,0.162162162,NO,NO,Joe Bowditch,Mark & L Kavanagh,4,Good,YES,0
+12,16/12/22,Geelong,Victoria,2,Tolpuddle,4,1.8,2.2,Small,Big,0.55,YES,NO,Blaike Mcdougall,G M Begg,4,Good,YES,1
+13,16/12/22,Geelong,Victoria,3,Belthil,2.1,1.45,0.65,Minimal,Decent,0.30952381,YES,NO,Harry Coffey,Andrew Bobbin,4,Good,YES,1
+14,16/12/22,Geelong,Victoria,4,Aramco,10,4.5,5.5,Big,Big,0.55,YES,NO,Zac Spain,M Price & M K Jnr,4,Good,NO,1
+15,16/12/22,Geelong,Victoria,5,Resolutions,5,4.8,0.2,Minimal,Minimal,0.04,NO,NO,Jarrod Fry,T W Mulder,4,Good,NO,0
+16,16/12/22,Geelong,Victoria,6,Dyerville,4.2,4,0.2,Minimal,Minimal,0.047619048,NO,NO,Dean Yendall,M J Williams,4,Good,NO,0
+17,16/12/22,Geelong,Victoria,7,Bella Babe,4,11,-7,Negative,None/Negative,-1.75,NO,NO,M Chadwick,C Maher & D Eustace,4,Good,NO,0
+18,16/12/22,Geelong,Victoria,8,Capital Express,2.7,1.75,0.95,Minimal,Decent,0.351851852,NO,YES,Damien Oliver,Nick Ryan,4,Good,YES,1
+19,16/12/22,Ballina,New South Wales,1,Chickerartie,4.2,3.2,1,Minimal,Decent,0.238095238,YES,NO,Les Tilley,S B Lee,3,Good,YES,1
+20,16/12/22,Ballina,New South Wales,2,Palawa Kani,4.2,4.8,-0.6,Negative,None/Negative,-0.142857143,NO,NO,Matthew Mcguren,Daniel Bowen,3,Good,NO,0
+21,16/12/22,Ballina,New South Wales,3,Seaczar,7.5,14,-6.5,Negative,None/Negative,-0.866666667,NO,YES,Danny Peisley,C R Manson,3,Good,NO,1
+22,16/12/22,Ballina,New South Wales,4,I Shot The Sheriff,8,6.5,1.5,Minimal,Minimal,0.1875,NO,NO,John Grisedale,B F Cavanough,3,Good,NO,0
+23,16/12/22,Ballina,New South Wales,5,Centre Bounce,2.5,1.85,0.65,Minimal,Decent,0.26,NO,YES,Matthew Mcguren,M J Dunn,3,Good,YES,1
+24,16/12/22,Ballina,New South Wales,6,Little Vista,11,6.5,4.5,Small,Big,0.409090909,NO,YES,Morgan Butler,W Bannerot,3,Good,NO,1
+25,16/12/22,Ballina,New South Wales,7,Starter,9.5,12,-2.5,Negative,None/Negative,-0.263157895,NO,NO,Luke Dittman,Allan Chau,3,Good,NO,0
+26,16/12/22,Ballina,New South Wales,8,The Tyler,7,3.6,3.4,Small,Big,0.485714286,NO,YES,Ben Looker,L J Hatch,3,Good,NO,1
+27,16/12/22,Warren,New South Wales,1,Jade Division,7,11,-4,Negative,None/Negative,-0.571428571,NO,NO,S Ingelse,Brett Thompson,5,Soft,NO,0
+28,16/12/22,Warren,New South Wales,2,Listen To The Band,5,2.8,2.2,Small,Big,0.44,NO,NO,J Pracey-Holmes,C Lundholm,5,Soft,YES,0
+29,16/12/22,Warren,New South Wales,3,No Debt,7.5,5,2.5,Small,Decent,0.333333333,NO,NO,Jake Barrett,Brett Robb,5,Soft,NO,0
+30,16/12/22,Warren,New South Wales,4,Allchosen,8,7,1,Minimal,Minimal,0.125,NO,NO,Brooke Stower,G D Lunn,5,Soft,NO,0
+31,16/12/22,Warren,New South Wales,5,Not Negotiating,13,11,2,Minimal,Minimal,0.153846154,NO,NO,A Stanley,Peter W Stanley,5,Soft,NO,0
+32,16/12/22,Warren,New South Wales,6,Planet Ex,5.5,3.2,2.3,Small,Big,0.418181818,YES,NO,Clayton Gallagher,W Collison,5,Soft,NO,1
+33,16/12/22,Warren,New South Wales,7,Lady Lucilla,10,9,1,Minimal,Minimal,0.1,NO,NO,J Pracey-Holmes,C Lundholm,5,Soft,NO,0
+34,16/12/22,Rockhampton,Queensland,1,Kings County,15,17,-2,Negative,None/Negative,-0.133333333,NO,NO,Chris Whiteley,Adrian Coome,5,Soft,NO,0
+35,16/12/22,Rockhampton,Queensland,2,Mocial Chief,3.4,2.1,1.3,Minimal,Decent,0.382352941,NO,YES,Ashley Butler,K N Smyth,5,Soft,YES,1
+36,16/12/22,Rockhampton,Queensland,3,Highground,2.5,1.85,0.65,Minimal,Decent,0.26,NO,NO,Jason Taylor,Nick Walsh,5,Soft,YES,0
+37,16/12/22,Rockhampton,Queensland,4,Falsetto,2.4,1.4,1,Minimal,Big,0.416666667,YES,NO,Justin Stanley,Clinton Taylor,5,Soft,YES,1
+38,16/12/22,Rockhampton,Queensland,5,Under The Limit,4.6,2.5,2.1,Small,Big,0.456521739,NO,YES,Ashley Butler,R Tyrell & T Button,5,Soft,YES,1
+39,16/12/22,Rockhampton,Queensland,6,Art By Concorde,6,5.5,0.5,Minimal,Minimal,0.083333333,NO,NO,Adam Sewell,C Smith,5,Soft,NO,0
+40,16/12/22,Rockhampton,Queensland,7,I Promise You,5,2.6,2.4,Small,Big,0.48,YES,NO,Isabella Rabjones,William Kropp,5,Soft,YES,1
+41,16/12/22,Rockhampton,Queensland,8,Divine Purpose,2.45,1.7,0.75,Minimal,Decent,0.306122449,NO,YES,Justin Stanley,Clinton Taylor,5,Soft,YES,1
+42,17/12/22,Flemington,Victoria,1,She Dances,10,10,0,No Change,None/Negative,0,NO,NO,Luke Nolen,P G Moody,3,Good,NO,0
+43,17/12/22,Flemington,Victoria,2,For Real Life,7,9,-2,Negative,None/Negative,-0.285714286,NO,NO,Blaike Mcdougall,L & T Corstens,3,Good,NO,0
+44,17/12/22,Flemington,Victoria,3,Pounding,3.4,3.1,0.3,Minimal,Minimal,0.088235294,NO,NO,Jamie Kah,P G Moody,3,Good,YES,0
+45,17/12/22,Flemington,Victoria,4,Hasseltoff,12,9,3,Small,Decent,0.25,NO,NO,Craig Williams,Tom Dabernig,3,Good,NO,0
+46,17/12/22,Flemington,Victoria,5,Invincible Caviar,4,3,1,Minimal,Decent,0.25,NO,YES,Jamie Kah,P G Moody,3,Good,YES,1
+47,17/12/22,Flemington,Victoria,6,Persan,3.1,2.6,0.5,Minimal,Minimal,0.161290323,NO,YES,Harry Coffey,C Maher & D Eustace,3,Good,YES,1
+48,17/12/22,Flemington,Victoria,7,Ashford Street,20,10,10,Big,Big,0.5,YES,NO,Teo Nugent,K M Elford,3,Good,NO,1
+49,17/12/22,Flemington,Victoria,8,Nicolini Vito,5.5,7.5,-2,Negative,None/Negative,-0.363636364,NO,NO,Damien Oliver,Ben & J D Hayes,3,Good,NO,0
+50,17/12/22,Flemington,Victoria,9,He's Xceptional,7.5,9,-1.5,Negative,None/Negative,-0.2,NO,NO,Thomas Stockdale,T Busuttin & N Young,3,Good,NO,0
+51,17/12/22,Randwick,New South Wales,1,Lazzago,4.6,8,-3.4,Negative,None/Negative,-0.739130435,NO,NO,Brenton Avdulla,C J Waller,4,Good,NO,0
+52,17/12/22,Randwick,New South Wales,2,Super Extreme,4.6,5,-0.4,Negative,None/Negative,-0.086956522,NO,NO,James McDonald,Cameron Crockett,4,Good,YES,0
+53,17/12/22,Randwick,New South Wales,3,With Your Blessing,3.3,3.5,-0.2,Negative,None/Negative,-0.060606061,NO,NO,James McDonald,John Thompson,4,Good,YES,0
+54,17/12/22,Randwick,New South Wales,4,Global Ausbred,18,11,7,Big,Decent,0.388888889,NO,YES,Tim Clark,Brad Widdup,4,Good,NO,1
+55,17/12/22,Randwick,New South Wales,5,Our Bellagio Miss,61,61,0,No Change,None/Negative,0,NO,NO,Jenny Duggan,R & L Price,4,Good,NO,0
+56,17/12/22,Randwick,New South Wales,6,Lekvarte,21,5,16,Huge,Huge,0.761904762,NO,YES,Chad Schofield,Joseph Pride,4,Good,NO,1
+57,17/12/22,Randwick,New South Wales,7,Colour Sargeant,9.5,14,-4.5,Negative,None/Negative,-0.473684211,NO,NO,Brenton Avdulla,Matthew Smith,4,Good,NO,0
+58,17/12/22,Randwick,New South Wales,8,Superium,11,8,3,Small,Decent,0.272727273,NO,NO,Zac Lloyd,M & W & J Hawkes,4,Good,NO,0
+59,17/12/22,Randwick,New South Wales,9,I Am Me,1.9,2.4,-0.5,Negative,None/Negative,-0.263157895,NO,NO,James McDonald,C Maher & D Eustace,4,Good,YES,0
+60,17/12/22,Randwick,New South Wales,10,Our Modena,18,12,6,Big,Decent,0.333333333,NO,NO,Reece Jones,S I Singleton,4,Good,NO,0
+61,18/12/22,Werribee,Victoria,1,Beefeaters,3.5,5.5,-2,Negative,None/Negative,-0.571428571,NO,NO,Michael Poy,C Maher & D Eustace,4,Good,NO,0
+62,18/12/22,Werribee,Victoria,2,General Knowledge,20,3.8,16.2,Huge,Huge,0.81,YES,NO,Blaike Mcdougall,M J Ellerton,4,Good,NO,1
+63,18/12/22,Werribee,Victoria,3,Bunjil,2.6,1.3,1.3,Minimal,Big,0.5,NO,YES,Dean Holland,T & C McEvoy,4,Good,YES,1
+64,18/12/22,Werribee,Victoria,4,Amphactor,4.2,1.8,2.4,Small,Big,0.571428571,YES,NO,Jamie Mott,Mark & L Kavanagh,4,Good,YES,1
+65,18/12/22,Werribee,Victoria,5,Adonis Kick,6.5,14,-7.5,Negative,None/Negative,-1.153846154,NO,NO,Tianni Chapman,Peter Gelagotis,4,Good,NO,0
+66,18/12/22,Werribee,Victoria,6,Trodaire,5.5,3.4,2.1,Small,Decent,0.381818182,YES,NO,Jamie Mott,Lloyd Kennewell,4,Good,YES,1
+67,18/12/22,Werribee,Victoria,7,Harbin,5,4.2,0.8,Minimal,Minimal,0.16,NO,NO,Celine Gaudray,L Smith,4,Good,YES,0
+68,18/12/22,Werribee,Victoria,8,Invincible Bay,16,6.5,9.5,Big,Huge,0.59375,NO,YES,Blaike Mcdougall,Lloyd Kennewell,4,Good,NO,1
+69,19/12/22,Dubbo,New South Wales,1,Bernforme,14,16,-2,Negative,None/Negative,-0.142857143,NO,NO,Anthony Cavallo,Dar Lunn,4,Good,NO,0
+70,19/12/22,Dubbo,New South Wales,2,Ultra White,16,46,-30,Negative,None/Negative,-1.875,NO,NO,J Pracey-Holmes,Paul Theobald,4,Good,NO,0
+71,19/12/22,Dubbo,New South Wales,3,Eva's Deel,2.6,1.6,1,Minimal,Decent,0.384615385,YES,NO,Aaron Bullock,M R Mulholland,4,Good,YES,1
+72,19/12/22,Dubbo,New South Wales,4,Petain,8,6,2,Minimal,Decent,0.25,NO,NO,Anthony Cavallo,R W Howe,4,Good,NO,0
+73,19/12/22,Dubbo,New South Wales,5,Movin' Denman,12,2.9,9.1,Big,Huge,0.758333333,YES,NO,Aaron Bullock,Lyle Chandler,4,Good,YES,1
+74,19/12/22,Dubbo,New South Wales,6,Hammoon Money,2.7,3.2,-0.5,Negative,None/Negative,-0.185185185,NO,NO,Clayton Gallagher,Brett Robb,4,Good,NO,0
+75,19/12/22,Dubbo,New South Wales,7,Shen Gui,21,5.5,15.5,Huge,Huge,0.738095238,YES,NO,Aaron Bullock,Lou Mary,4,Good,NO,1
+76,19/12/22,Corowa,New South Wales,1,My Boy Mo,10,6.5,3.5,Small,Decent,0.35,NO,YES,Brendan Ward,D Scott,4,Good,NO,1
+77,19/12/22,Corowa,New South Wales,2,Bubbler,5.5,8.5,-3,Negative,None/Negative,-0.545454545,NO,NO,Josh Richards,G J Colvin,4,Good,NO,0
+78,19/12/22,Corowa,New South Wales,3,Incentive,1.55,1.95,-0.4,Negative,None/Negative,-0.258064516,NO,NO,Molly Bourke,Doug Gorrel,4,Good,YES,0
+79,19/12/22,Corowa,New South Wales,4,Star of Mattner,23,12,11,Huge,Big,0.47826087,NO,NO,H Williams,Heath Maclean,4,Good,NO,0
+80,19/12/22,Corowa,New South Wales,5,Miss Mouse,3.6,2.45,1.15,Minimal,Decent,0.319444444,NO,NO,Jett Stanley,Russell Osborne,4,Good,NO,0
+81,19/12/22,Corowa,New South Wales,6,Pretty Panda,23,19,4,Small,Minimal,0.173913043,YES,NO,Jett Stanley,Russell Osborne,4,Good,NO,1
+82,19/12/22,Corowa,New South Wales,7,Controversial Miss,11,6,5,Small,Big,0.454545455,NO,NO,Jake Duffy,Craig Weeding,4,Good,NO,0
+83,19/12/22,Narrogin,Western Australia,1,Dancing Jalapeno,3.7,3.6,0.1,Minimal,Minimal,0.027027027,NO,YES,Lisa Staples,T R Harvey,3,Good,NO,1
+84,19/12/22,Narrogin,Western Australia,2,Kelly's Li Za Lu,1.9,2.3,-0.4,Negative,None/Negative,-0.210526316,NO,NO,B Gaerth,A G Durrant,3,Good,YES,0
+85,19/12/22,Narrogin,Western Australia,3,Living High,9.5,8.5,1,Minimal,Minimal,0.105263158,NO,NO,Lisa Staples,Jade Tangaroa,3,Good,NO,0
+86,19/12/22,Narrogin,Western Australia,4,Duchees Demerit,3.6,3,0.6,Minimal,Minimal,0.166666667,NO,YES,Alan Kennedy,P E Roberts,3,Good,NO,1
+87,19/12/22,Narrogin,Western Australia,5,Blaiszen Cazah,4.2,2.45,1.75,Minimal,Big,0.416666667,NO,YES,Lisa Staples,C Stelmach,3,Good,NO,1
+88,19/12/22,Narrogin,Western Australia,7,Highfriar,3.5,2.9,0.6,Minimal,Minimal,0.171428571,YES,NO,Lisa Staples,J D Jachmann,3,Good,YES,1
+89,19/12/22,Narrogin,Western Australia,8,Has No Fear,26,14,12,Huge,Big,0.461538462,YES,NO,Cassie Martinan,Justin Parsons,3,Good,NO,1
+90,20/12/22,Scone,New South Wales,2,Righteous Feeling,19,10,9,Big,Big,0.473684211,NO,YES,Reece Jones,B F Cavanough,4,Good,NO,1
+91,20/12/22,Scone,New South Wales,3,Smiling Prophet,4.2,2.2,2,Minimal,Big,0.476190476,YES,NO,Mikayla Weir,M S Minervini,4,Good,YES,1
+92,20/12/22,Scone,New South Wales,4,Jet Pack,3,4,-1,Negative,None/Negative,-0.333333333,NO,NO,Jeff Penza,Cameron Crockett,4,Good,YES,0
+93,20/12/22,Scone,New South Wales,5,Behind The Storm,67,31,36,Huge,Big,0.537313433,NO,NO,Jenny Duggan,J R Gask,4,Good,NO,0
+94,20/12/22,Scone,New South Wales,6,Kite Flight,11,9.5,1.5,Minimal,Minimal,0.136363636,NO,NO,Reece Jones,R P Northam,4,Good,NO,0
+95,20/12/22,Scone,New South Wales,7,Summer In Siam,6.5,3.2,3.3,Small,Big,0.507692308,NO,YES,Alysha Collett,Annabel Neasham,4,Good,YES,1
+96,20/12/22,Terang,Victoria,1,Book Launch,31,51,-20,Negative,None/Negative,-0.64516129,NO,NO,Amy Herrmann,J G McArthur,3,Good,NO,0
+97,20/12/22,Terang,Victoria,2,Montjeuify,8.5,4.6,3.9,Small,Big,0.458823529,NO,YES,John Allen,Matthew Cumani,3,Good,NO,1
+98,20/12/22,Terang,Victoria,3,Rapinoe,27,16,11,Huge,Big,0.407407407,NO,YES,Jarrod Fry,P A Chow,3,Good,NO,1
+99,20/12/22,Terang,Victoria,4,Pistachio,14,6,8,Big,Big,0.571428571,NO,NO,Linda Meech,Tom Dabernig,3,Good,NO,0
+100,20/12/22,Terang,Victoria,5,Squami,3.4,3,0.4,Minimal,Minimal,0.117647059,NO,NO,Damien Thornton,Simon Zahra,3,Good,YES,0
+101,20/12/22,Terang,Victoria,6,Dream Statement,8,2.45,5.55,Big,Huge,0.69375,YES,NO,Dean Yendall,P A Preusker,3,Good,YES,1
+102,20/12/22,Terang,Victoria,7,Strawberry Moon,5,2.8,2.2,Small,Big,0.44,NO,NO,Dean Yendall,Daniel Bowman,3,Good,YES,0
+103,20/12/22,Terang,Victoria,8,Tavisteel,11,26,-15,Negative,None/Negative,-1.363636364,NO,NO,Blaike Mcdougall,Simon Zahra,3,Good,NO,0
+104,20/12/22,Terang,Victoria,9,Soul Choice,2.6,1.45,1.15,Minimal,Big,0.442307692,YES,NO,Zac Spain,G Waterhouse & A Bott,3,Good,YES,1
+105,20/12/22,Terang,Victoria,10,Sword Of War,15,3.2,11.8,Huge,Huge,0.786666667,YES,NO,Jarrod Fry,L Smith,3,Good,YES,1
+106,20/12/22,Townsville,Queensland,1,Floral Code,1.9,2.05,-0.15,Negative,None/Negative,-0.078947368,NO,NO,Carl Spry,Sarah Acornley,4,Good,YES,0
+107,20/12/22,Townsville,Queensland,2,Arise My Son,3.5,4.8,-1.3,Negative,None/Negative,-0.371428571,NO,NO,Lacey Morrison,Sharlee D'Avila,4,Good,NO,0
+108,20/12/22,Townsville,Queensland,3,Stormy Legend,4.4,3.6,0.8,Minimal,Minimal,0.181818182,NO,YES,Nathan Day,S Massingham,4,Good,NO,1
+109,20/12/22,Townsville,Queensland,4,Bonython,3.6,3.7,-0.1,Negative,None/Negative,-0.027777778,NO,YES,Lacey Morrison,Sharlee D'Avila,4,Good,YES,1
+110,20/12/22,Townsville,Queensland,5,Dark Rebel,5,4.2,0.8,Minimal,Minimal,0.16,NO,NO,Justin Stanley,S Massingham,4,Good,YES,0
+111,20/12/22,Townsville,Queensland,6,Yes Dream,4,3.2,0.8,Minimal,Decent,0.2,NO,YES,Lacey Morrison,Michael Lee,4,Good,YES,1
+112,20/12/22,Townsville,Queensland,7,Count of Carford ,10,7,3,Small,Decent,0.3,NO,YES,Bonnie Thomson,S J Royes,4,Good,NO,1
+113,21/12/22,Sandown,Victoria,1,Fretta,4.2,3.7,0.5,Minimal,Minimal,0.119047619,NO,NO,Jamie Kah,M Price & M K Jnr,4,Good,NO,0
+114,21/12/22,Sandown,Victoria,2,Shanghai Venture,7,3.9,3.1,Small,Big,0.442857143,NO,NO,Blake Shinn,Brian McGrath,4,Good,NO,0
+115,21/12/22,Sandown,Victoria,3,Harbourmaster,5,7.5,-2.5,Negative,None/Negative,-0.5,NO,NO,Mitchell Aitken,Henry Dwyer,4,Good,NO,0
+116,21/12/22,Sandown,Victoria,4,Tycoon Bec,4.4,6,-1.6,Negative,None/Negative,-0.363636364,NO,NO,Carleen Hefel,Matthew Cumani,4,Good,NO,0
+117,21/12/22,Sandown,Victoria,5,Charming Di,14,6.5,7.5,Big,Big,0.535714286,YES,NO,Carleen Hefel,J F Moloney,4,Good,NO,1
+118,21/12/22,Sandown,Victoria,6,Lovin' Laughs,26,17,9,Big,Decent,0.346153846,YES,NO,Madison Lloyd,M Sell,4,Good,NO,1
+119,21/12/22,Sandown,Victoria,7,Boss Queen,9,8,1,Minimal,Minimal,0.111111111,NO,NO,Damien Oliver,Gavin Bedggood,4,Good,NO,0
+120,21/12/22,Sandown,Victoria,8,Daily Bugle,14,4.2,9.8,Big,Huge,0.7,YES,NO,Jamie Mott,R Griffiths & M De Kock,4,Good,NO,1
+121,21/12/22,Warwick Farm,New South Wales,1,Royal Entrance,7.5,6,1.5,Minimal,Decent,0.2,YES,NO,Regan Bayliss,G Waterhouse & A Bott,3,Good,NO,1
+122,21/12/22,Warwick Farm,New South Wales,3,Fielding,5.5,3.2,2.3,Small,Big,0.418181818,NO,NO,Zac Lloyd,D Lane,3,Good,YES,0
+123,21/12/22,Warwick Farm,New South Wales,4,Villaden,7,2.8,4.2,Small,Huge,0.6,YES,NO,James McDonald,C J Waller,3,Good,YES,1
+124,21/12/22,Warwick Farm,New South Wales,5,Too Much Caviar,7,9,-2,Negative,None/Negative,-0.285714286,NO,NO,Regan Bayliss,G Waterhouse & A Bott,3,Good,NO,0
+125,21/12/22,Warwick Farm,New South Wales,6,Bitcoin Baby,34,20,14,Huge,Big,0.411764706,NO,YES,Chad Schofield,G Ryan & S Alexiou,3,Good,NO,1
+126,21/12/22,Warwick Farm,New South Wales,7,Gundy Bridge,4.5,1.75,2.75,Small,Huge,0.611111111,YES,NO,Regan Bayliss,G Waterhouse & A Bott,3,Good,YES,1
+127,21/12/22,Eagle Farm,Queensland,1,Ekaterina,2.4,1.75,0.65,Minimal,Decent,0.270833333,YES,NO,James Orman,R L Heathcote,4,Good,YES,1
+128,21/12/22,Eagle Farm,Queensland,2,Firstluv,3,1.9,1.1,Minimal,Decent,0.366666667,YES,NO,Ben Thompson,Jack Bruce,4,Good,YES,1
+129,21/12/22,Eagle Farm,Queensland,3,Greylander,3.5,3.1,0.4,Minimal,Minimal,0.114285714,NO,NO,Angela Jones,T J Gollan,4,Good,NO,0
+130,21/12/22,Eagle Farm,Queensland,4,Arcarius,10,10,0,No Change,None/Negative,0,NO,NO,James Orman,B J Lockwood,4,Good,NO,0
+131,21/12/22,Eagle Farm,Queensland,5,Knockknee,15,31,-16,Negative,None/Negative,-1.066666667,NO,NO,Angela Jones,S W Kendrick,4,Good,NO,0
+132,21/12/22,Eagle Farm,Queensland,6,Ashgrove,3.9,2.4,1.5,Minimal,Decent,0.384615385,YES,NO,Ryan Maloney,T J Gollan,4,Good,YES,1
+133,21/12/22,Eagle Farm,Queensland,7,Briars Kingdom,8,4,4,Small,Big,0.5,YES,NO,Angela Jones,T J Gollan,4,Good,NO,1
+134,21/12/22,Eagle Farm,Queensland,8,American Saint,10,16,-6,Negative,None/Negative,-0.6,NO,NO,Angela Jones,L J Hatch,4,Good,NO,0
+135,22/12/22,Wangaratta,Victoria,1,End of Winter,11,4.2,6.8,Big,Huge,0.618181818,NO,YES,Neil Farley,Ben Brisbourne,4,Good,NO,1
+136,22/12/22,Wangaratta,Victoria,2,Allegedly,3.9,4,-0.1,Negative,None/Negative,-0.025641026,NO,NO,Daniel Moor,A & S Freedman,4,Good,NO,0
+137,22/12/22,Wangaratta,Victoria,3,Keefneedsafeed,4.6,3.2,1.4,Minimal,Decent,0.304347826,NO,NO,Beau Mertens,M Price & M K Jnr,4,Good,YES,0
+138,22/12/22,Wangaratta,Victoria,4,Sugar Pop,4.6,3.8,0.8,Minimal,Minimal,0.173913043,NO,NO,Blaike Mcdougall,M J Ellerton,4,Good,YES,0
+139,22/12/22,Wangaratta,Victoria,5,Estilled,6,3.1,2.9,Small,Big,0.483333333,NO,YES,Hannah Edgley,G W Egan,4,Good,YES,1
+140,22/12/22,Wangaratta,Victoria,6,Max Mercury,9,10,-1,Negative,None/Negative,-0.111111111,NO,NO,Fred Kerlsey,Matthew Cumani,4,Good,NO,0
+141,22/12/22,Wangaratta,Victoria,7,Anilla,3.1,1.7,1.4,Minimal,Big,0.451612903,NO,NO,Jake Duffy,Ben & J D Hayes,4,Good,YES,0
+142,22/12/22,Wangaratta,Victoria,8,O'reg,23,13,10,Big,Big,0.434782609,NO,NO,Lachlan King,A Fitzgerald,4,Good,NO,0
+143,22/12/22,Gosford,New South Wales,1,Passeggiata,3,2.3,0.7,Minimal,Decent,0.233333333,NO,NO,Rachel King,Bjorn Baker,4,Good,YES,0
+144,22/12/22,Gosford,New South Wales,2,Noble Empress,17,15,2,Minimal,Minimal,0.117647059,NO,NO,Mikayla Weir,N R Ward,4,Good,NO,0
+145,22/12/22,Gosford,New South Wales,3,Celestial Fury,6,5,1,Minimal,Minimal,0.166666667,NO,YES,Koby Jennings,Nathan Doyle,4,Good,NO,1
+146,22/12/22,Gosford,New South Wales,4,Piraeus,9.5,5,4.5,Small,Big,0.473684211,NO,YES,Jason Collett,R & W Freedman,4,Good,YES,1
+147,22/12/22,Gosford,New South Wales,5,First Peoples,4.4,4.2,0.2,Minimal,Minimal,0.045454545,NO,NO,Ashley Morgan,Sam Kavanagh,4,Good,NO,0
+148,22/12/22,Gosford,New South Wales,6,Field Wiri,2.2,2.25,-0.05,Negative,None/Negative,-0.022727273,NO,NO,Jason Collett,R & W Freedman,4,Good,YES,0
+149,22/12/22,Gosford,New South Wales,7,Mandalong Cash,10,26,-16,Negative,None/Negative,-1.6,NO,NO,Alysha Collett,G R Nickson,4,Good,NO,0
+150,23/12/22,Coonabarabran,New South Wales,1,Skye Lover,16,31,-15,Negative,None/Negative,-0.9375,NO,NO,Ken Dunbar,M A Milton,5,Soft,NO,0
+151,23/12/22,Coonabarabran,New South Wales,2,By Crikey Jack,46,7.5,38.5,Huge,Huge,0.836956522,YES,NO,J Pracey-Holmes,Simon Casey,5,Soft,NO,1
+152,23/12/22,Coonabarabran,New South Wales,3,Maly Malt,4,4,0,No Change,None/Negative,0,NO,NO,Ben Looker,S Grills,5,Soft,NO,0
+153,23/12/22,Coonabarabran,New South Wales,4,Bring The Rabble,6,11,-5,Negative,None/Negative,-0.833333333,NO,NO,Ben Looker,Allan Kehoe,5,Soft,NO,0
+154,23/12/22,Coonabarabran,New South Wales,5,The Long Run,7,5.5,1.5,Minimal,Decent,0.214285714,NO,YES,William Stanley,Peter W Stanley,5,Soft,NO,1
+155,23/12/22,Coonabarabran,New South Wales,6,Vital Verse,3.9,4.5,-0.6,Negative,None/Negative,-0.153846154,NO,NO,Grant Buckley,C Lundholm,5,Soft,NO,0
+156,23/12/22,Coonabarabran,New South Wales,7,Knife's Edge,7.5,8,-0.5,Negative,None/Negative,-0.066666667,NO,NO,Mikayla Weir,G D Lunn,5,Soft,NO,0
+157,23/12/22,Coonabarabran,New South Wales,8,Raoul,7.5,5,2.5,Small,Decent,0.333333333,NO,NO,Georgia Dobie,S I Singleton,5,Soft,NO,0
+158,23/12/22,Cranbourne,Victoria,1,Tino's Daughter,4,6,-2,Negative,None/Negative,-0.5,NO,NO,Damien Thornton,Jerome Hunter,4,Good,NO,0
+159,23/12/22,Cranbourne,Victoria,2,King Valley,3.4,5,-1.6,Negative,None/Negative,-0.470588235,NO,NO,Jamie Mott,G Eurell,4,Good,NO,0
+160,23/12/22,Cranbourne,Victoria,3,Nunthorpe,3.3,2,1.3,Minimal,Big,0.393939394,NO,NO,Jamie Kah,P G Moody,4,Good,YES,0
+161,23/12/22,Cranbourne,Victoria,4,Concentric,7.5,9,-1.5,Negative,None/Negative,-0.2,NO,NO,Ben Allen,T Busuttin & N Young,4,Good,NO,0
+162,23/12/22,Cranbourne,Victoria,5,Huguenot,14,10,4,Small,Decent,0.285714286,NO,YES,Blaike Mcdougall,G Eurell,4,Good,NO,1
+163,23/12/22,Cranbourne,Victoria,6,Joseylin,15,7,8,Big,Big,0.533333333,NO,YES,Daniel Stackhouse,Ben & J D Hayes,4,Good,NO,1
+164,23/12/22,Cranbourne,Victoria,7,Meiner Legacy,3.2,4,-0.8,Negative,None/Negative,-0.25,NO,NO,Daniel Stackhouse,Aaron Purcell,4,Good,NO,0
+165,23/12/22,Cranbourne,Victoria,8,Girello,4,8,-4,Negative,None/Negative,-1,NO,NO,Lachlan Overall,M C Kent,4,Good,NO,0
+166,24/12/22,Randwick,New South Wales,1,Fire Lane,11,9,2,Minimal,Minimal,0.181818182,NO,NO,Jay Ford,Brad Widdup,3,Good,NO,0
+167,24/12/22,Randwick,New South Wales,2,Mach Schnell,10,12,-2,Negative,None/Negative,-0.2,NO,NO,Joshua Parr,Joseph Pride,3,Good,NO,0
+168,24/12/22,Randwick,New South Wales,3,Estadio Mestalla,3.1,3.3,-0.2,Negative,None/Negative,-0.064516129,NO,NO,James McDonald,C J Waller,3,Good,YES,0
+169,24/12/22,Randwick,New South Wales,4,Just In Reach,10,13,-3,Negative,None/Negative,-0.3,NO,NO,Dylan Gibbons,S Grills,3,Good,NO,0
+170,24/12/22,Randwick,New South Wales,5,Made By Khan,6,4.8,1.2,Minimal,Decent,0.2,NO,NO,Dylan Gibbons,Adam Duggan,3,Good,NO,0
+171,24/12/22,Randwick,New South Wales,6,Credit Crunch,19,23,-4,Negative,None/Negative,-0.210526316,NO,NO,Zac Lloyd,Matthew Smith,3,Good,NO,0
+172,24/12/22,Randwick,New South Wales,7,Jojo Was A Man,11,7,4,Small,Decent,0.363636364,NO,YES,Reece Jones,John Thompson,3,Good,NO,1
+173,24/12/22,Randwick,New South Wales,8,Sunshine In Paris,2.2,2.25,-0.05,Negative,None/Negative,-0.022727273,NO,NO,Zac Lloyd,Annabel Neasham,3,Good,YES,0
+174,24/12/22,Randwick,New South Wales,9,Kanazawa,6,4.2,1.8,Minimal,Decent,0.3,NO,NO,Zac Lloyd,James Cummings,3,Good,NO,0
+175,24/12/22,Randwick,New South Wales,10,Kalino,5,6,-1,Negative,None/Negative,-0.2,NO,NO,James McDonald,C J Waller,3,Good,NO,0
+176,24/12/22,Mooney Valley,Victoria,1,Amur,5,4.6,0.4,Minimal,Minimal,0.08,NO,NO,Damien Oliver,James Cummings,3,Good,NO,0
+177,24/12/22,Mooney Valley,Victoria,2,Forbidden City,2.9,3,-0.1,Negative,None/Negative,-0.034482759,NO,NO,Luke Nolen,P G Moody,3,Good,YES,0
+178,24/12/22,Mooney Valley,Victoria,3,Inundation,2.15,2.25,-0.1,Negative,None/Negative,-0.046511628,NO,NO,Jamie Kah,M Price & M K Jnr,3,Good,YES,0
+179,24/12/22,Mooney Valley,Victoria,4,Rich Fortune,16,5.5,10.5,Huge,Huge,0.65625,YES,NO,Matthew Cartwright,Jerome Hunter,3,Good,NO,1
+180,24/12/22,Mooney Valley,Victoria,5,Right You Are,2.6,2.5,0.1,Minimal,Minimal,0.038461538,NO,NO,Ethan Brown,C Maher & D Eustace,3,Good,YES,0
+181,24/12/22,Mooney Valley,Victoria,6,Silver Tycoon,18,12,6,Big,Decent,0.333333333,NO,YES,Jarrod Fry,Nathan Dunn,3,Good,NO,1
+182,24/12/22,Mooney Valley,Victoria,7,Rambler Rebel,61,61,0,No Change,None/Negative,0,NO,NO,Ethan Brown,Michelle Payne,3,Good,NO,0
+183,24/12/22,Mooney Valley,Victoria,8,Wahine Toa,5.5,4.8,0.7,Minimal,Minimal,0.127272727,NO,YES,Matthew Cartwright,C Maher & D Eustace,3,Good,NO,1
+184,24/12/22,Mooney Valley,Victoria,9,Magnum Bullet,10,9.5,0.5,Minimal,Minimal,0.05,NO,NO,Neil Farley,M Sell,3,Good,NO,0
+185,26/12/22,Sandown,Victoria,1,Snapped,3.8,3.8,0,No Change,None/Negative,0,NO,NO,Matthew Cartwright,A & S Freedman,3,Good,YES,0
+186,26/12/22,Sandown,Victoria,2,Dunkel,2.35,1.6,0.75,Minimal,Decent,0.319148936,NO,NO,Harry Coffey,Patrick Payne,3,Good,YES,0
+187,26/12/22,Sandown,Victoria,3,St Lawrence,2.55,1.55,1,Minimal,Big,0.392156863,YES,NO,John Allen,C Maher & D Eustace,3,Good,YES,1
+188,26/12/22,Sandown,Victoria,4,Nugget,1.9,1.75,0.15,Minimal,Minimal,0.078947368,NO,NO,John Allen,C Maher & D Eustace,3,Good,YES,0
+189,26/12/22,Sandown,Victoria,5,Chandon Burj,4.4,3.4,1,Minimal,Decent,0.227272727,NO,YES,Matthew Cartwright,T Busuttin & N Young,3,Good,YES,1
+190,26/12/22,Sandown,Victoria,6,Savannah Cloud,3.9,2.9,1,Minimal,Decent,0.256410256,NO,YES,Madison Lloyd,P Stokes,3,Good,NO,1
+191,26/12/22,Sandown,Victoria,7,Jigsaw,3.9,3.9,0,No Change,None/Negative,0,NO,NO,Daniel Moor,C Alderson,3,Good,NO,0
+192,26/12/22,Sandown,Victoria,8,Diamonds Inthe Sky,8,7,1,Minimal,Minimal,0.125,NO,NO,Linda Meech,P G Moody,3,Good,NO,0
+193,26/12/22,Randwick,New South Wales,1,Amor Victorious,4.5,2.9,1.6,Minimal,Decent,0.355555556,NO,NO,Jay Ford,Bjorn Baker,4,Good,YES,0
+194,26/12/22,Randwick,New South Wales,2,Pink Baroque,17,14,3,Small,Minimal,0.176470588,NO,NO,Zac Lloyd,C J Waller,4,Good,NO,0
+195,26/12/22,Randwick,New South Wales,3,Ramones,6.5,3.7,2.8,Small,Big,0.430769231,NO,YES,Chad Schofield,Joseph Pride,4,Good,YES,1
+196,26/12/22,Randwick,New South Wales,4,Zain's Girl,4.4,7,-2.6,Negative,None/Negative,-0.590909091,NO,NO,Tyler Schiller,Mark Newnham,4,Good,NO,0
+197,26/12/22,Randwick,New South Wales,5,Irish Kisses,23,19,4,Small,Minimal,0.173913043,NO,YES,Tyler Schiller,T J Bartley,4,Good,NO,1
+198,26/12/22,Randwick,New South Wales,6,Diamil,7,7.5,-0.5,Negative,None/Negative,-0.071428571,NO,NO,Jason Collett,J A O'Shea,4,Good,NO,0
+199,26/12/22,Randwick,New South Wales,7,Above And Beyond,19,11,8,Big,Big,0.421052632,YES,NO,Tyler Schiller,G Portelli,4,Good,NO,1
+200,26/12/22,Randwick,New South Wales,8,Mission Value,31,15,16,Huge,Big,0.516129032,YES,NO,Tyler Schiller,Mark Newnham,4,Good,NO,1
+201,31/12/22,Mooney Valley,Victoria,1,Croatian Belle,3.7,2.45,1.25,Minimal,Decent,0.337837838,NO,NO,Michael Dee,Ben & J D Hayes,3,Good,YES,0
+202,31/12/22,Mooney Valley,Victoria,2,Dance to Dubai,5.5,4.8,0.7,Minimal,Minimal,0.127272727,NO,NO,Carleen Hefel,P G Moody,3,Good,NO,0
+203,31/12/22,Mooney Valley,Victoria,3,Meiner Legacy,5.5,3.9,1.6,Minimal,Decent,0.290909091,NO,NO,Daniel Stackhouse,Aaron Purcell,3,Good,YES,0
+204,31/12/22,Mooney Valley,Victoria,4,Highland Jakk,9.5,9.5,0,No Change,None/Negative,0,NO,NO,Craig Williams,Robert Hickmott,3,Good,NO,0
+205,31/12/22,Mooney Valley,Victoria,5,Real Sensation,7,7,0,No Change,None/Negative,0,NO,NO,Ben Melham,Luke Oliver,3,Good,NO,0
+206,31/12/22,Mooney Valley,Victoria,6,Typhoon Harmony,16,11,5,Small,Decent,0.3125,NO,NO,Craig Williams,Peter Gelagotis,3,Good,NO,0
+207,31/12/22,Mooney Valley,Victoria,7,River Noir,3.8,3.1,0.7,Minimal,Minimal,0.184210526,NO,NO,Daniel Stackhouse,P G Moody,3,Good,YES,0
+208,31/12/22,Mooney Valley,Victoria,8,She Dances,6,3,3,Small,Big,0.5,YES,NO,Linda Meech,P G Moody,3,Good,YES,1
+209,31/12/22,Mooney Valley,Victoria,9,Dazzling Lucy,10,10,0,No Change,None/Negative,0,NO,NO,Jake Noonan,A W Noonan,3,Good,NO,0
+210,31/12/22,Randwick,New South Wales,1,Infatuation,5,4.4,0.6,Minimal,Minimal,0.12,NO,NO,Rachel King,Bjorn Baker,4,Good,NO,0
+211,31/12/22,Randwick,New South Wales,2,King of Spades,7,7.5,-0.5,Negative,None/Negative,-0.071428571,NO,NO,Zac Lloyd,Danielle Seib,4,Good,NO,0
+212,31/12/22,Randwick,New South Wales,3,Yoshino,8,9.5,-1.5,Negative,None/Negative,-0.1875,NO,NO,Zac Lloyd,James Cummings,4,Good,NO,0
+213,31/12/22,Randwick,New South Wales,4,Po Kare Kare,3.9,5,-1.1,Negative,None/Negative,-0.282051282,NO,NO,Nash Rawiller,Bryce Heys,4,Good,NO,0
+214,31/12/22,Randwick,New South Wales,5,Garrison,12,12,0,No Change,None/Negative,0,NO,NO,Zac Lloyd,K Waugh,4,Good,NO,0
+215,31/12/22,Randwick,New South Wales,6,Jojo Was A Man,3.8,4.8,-1,Negative,None/Negative,-0.263157895,NO,NO,Reece Jones,John Thompson,4,Good,NO,0
+216,31/12/22,Randwick,New South Wales,7,Too Much Caviar,7.5,8.5,-1,Negative,None/Negative,-0.133333333,NO,NO,Regan Bayliss,G Waterhouse & A Bott,4,Good,NO,0
+217,31/12/22,Randwick,New South Wales,8,Dehorned Unicorn,2.7,2.6,0.1,Minimal,Minimal,0.037037037,NO,NO,Sam Clipperton,Joseph Pride,4,Good,YES,0
+218,31/12/22,Randwick,New South Wales,9,Banju,10,7.5,2.5,Small,Decent,0.25,NO,YES,Reece Jones,Lyle Chandler,4,Good,NO,1
+219,31/12/22,Randwick,New South Wales,10,Cuban Royale,14,18,-4,Negative,None/Negative,-0.285714286,NO,NO,Brock Ryan,R & L Price,4,Good,NO,0
+220,1/1/23,Flemington,Victoria,1,Exploring,4,2.15,1.85,Minimal,Big,0.4625,NO,NO,Craig Williams,James Cummings,3,Good,YES,0
+221,1/1/23,Flemington,Victoria,2,Papillon Club,3,1.85,1.15,Minimal,Decent,0.383333333,YES,NO,Craig Williams,G Eurell,3,Good,YES,1
+222,1/1/23,Flemington,Victoria,3,Wrote To Arataki,3.6,3.4,0.2,Minimal,Minimal,0.055555556,NO,NO,Jamie Kah,M J Williams,3,Good,YES,0
+223,1/1/23,Flemington,Victoria,4,Jungle Jim,19,13,6,Big,Decent,0.315789474,NO,NO,Jordan Childs,M D Moroney,3,Good,NO,0
+224,1/1/23,Flemington,Victoria,5,Hasseltoff,7,4,3,Small,Big,0.428571429,YES,NO,Craig Williams,Tom Dabernig,3,Good,YES,1
+225,1/1/23,Flemington,Victoria,6,Corner Pocket,4.5,4.2,0.3,Minimal,Minimal,0.066666667,NO,YES,Declan Bates,L Smith,3,Good,NO,1
+226,1/1/23,Flemington,Victoria,7,San Huberto,13,7.5,5.5,Big,Big,0.423076923,YES,NO,Ethan Brown,C Maher & D Eustace,3,Good,NO,1
+227,1/1/23,Flemington,Victoria,8,Obfuscation,6,5.5,0.5,Minimal,Minimal,0.083333333,NO,NO,Damien Thornton,Simon Zahra,3,Good,NO,0
+228,2/1/23,Terang,Victoria,1,Zoom,2.6,1.6,1,Minimal,Decent,0.384615385,YES,NO,John Allen,C Maher & D Eustace,3,Good,YES,1
+229,2/1/23,Terang,Victoria,2,New Level,5.5,3.8,1.7,Minimal,Decent,0.309090909,NO,NO,Declan Bates,T & C McEvoy,3,Good,YES,0
+230,2/1/23,Terang,Victoria,3,Nevada Breeze,5,9,-4,Negative,None/Negative,-0.8,NO,NO,John Allen,Maddie Raymond,3,Good,NO,0
+231,2/1/23,Terang,Victoria,4,Soho Queen,2.6,3.4,-0.8,Negative,None/Negative,-0.307692308,NO,NO,Linda Meech,Tom Dabernig,3,Good,NO,0
+232,2/1/23,Terang,Victoria,5,Glitter N Gold,3,2.7,0.3,Minimal,Minimal,0.1,NO,NO,Tom Madden,L Smith,3,Good,YES,0
+233,2/1/23,Terang,Victoria,6,Lumber Punk,15,18,-3,Negative,None/Negative,-0.2,NO,NO,Jack Hill,L & T Corstens,3,Good,NO,0
+234,2/1/23,Terang,Victoria,7,Jenniferenti,3.5,3.3,0.2,Minimal,Minimal,0.057142857,NO,NO,John Allen,C Maher & D Eustace,3,Good,YES,0
+235,3/1/23,Taree,New South Wales,1,Woburn Abbey,6.5,6,0.5,Minimal,Minimal,0.076923077,NO,YES,Dylan Gibbons,P L Shailer,4,Good,NO,1
+236,3/1/23,Taree,New South Wales,2,Fine Weather,6,6,0,No Change,None/Negative,0,NO,NO,Ashley Morgan,Mark Stewart,4,Good,NO,0
+237,3/1/23,Taree,New South Wales,3,Handsome,1.85,1.3,0.55,Minimal,Decent,0.297297297,YES,NO,Dylan Gibbons,K A Lees,4,Good,YES,1
+238,3/1/23,Taree,New South Wales,4,Tavi Time,2.5,1.85,0.65,Minimal,Decent,0.26,NO,NO,Dylan Gibbons,K A Lees,4,Good,YES,0
+239,3/1/23,Taree,New South Wales,5,Lady Fraulein,2.7,1.95,0.75,Minimal,Decent,0.277777778,NO,NO,Koby Jennings,Nathan Doyle,4,Good,YES,0
+240,3/1/23,Taree,New South Wales,6,Miss Violet,13,7.5,5.5,Big,Big,0.423076923,NO,NO,Ashley Morgan,M S Minervini,4,Good,NO,0
+241,3/1/23,Taree,New South Wales,7,Ottilie,5.5,2.7,2.8,Small,Big,0.509090909,NO,NO,Ashley Morgan,J C Deamer,4,Good,YES,0
+242,3/1/23,Taree,New South Wales,8,G'day Poopsie,12,7.5,4.5,Small,Decent,0.375,NO,NO,Jenny Duggan,Amanda Davis,4,Good,NO,0
+243,4/1/23,Warwick Farm,New South Wales,1,Mad Darcey,4.6,3.3,1.3,Minimal,Decent,0.282608696,NO,YES,Jason Collett,David Pfeiffer,4,Good,YES,1
+244,4/1/23,Warwick Farm,New South Wales,2,More Mischief,27,34,-7,Negative,None/Negative,-0.259259259,NO,NO,Kathy O'Hara,A Turner,4,Good,NO,0
+245,4/1/23,Warwick Farm,New South Wales,3,Banana Queen,3.5,3.4,0.1,Minimal,Minimal,0.028571429,NO,NO,Dylan Gibbons,G Ryan & S Alexiou,4,Good,NO,0
+246,4/1/23,Warwick Farm,New South Wales,4,Just Business,23,20,3,Small,Minimal,0.130434783,NO,NO,Jess Taylor,J C Coyle,4,Good,NO,0
+247,4/1/23,Warwick Farm,New South Wales,5,Duke of Buckingham,6,5,1,Minimal,Minimal,0.166666667,NO,NO,Nash Rawiller,David Pfeiffer,4,Good,NO,0
+248,4/1/23,Warwick Farm,New South Wales,6,Another Cognac,7.5,3.9,3.6,Small,Big,0.48,YES,NO,Nash Rawiller,Bryce Heys,4,Good,YES,1
+249,4/1/23,Geelong,Victoria,1,Monks,4.2,4.2,0,No Change,None/Negative,0,NO,NO,Zac Spain,Lloyd Kennewell,3,Good,NO,0
+250,4/1/23,Geelong,Victoria,2,Mr I'm A Believer,2.2,2,0.2,Minimal,Minimal,0.090909091,NO,NO,Linda Meech,P G Moody,3,Good,YES,0
+251,4/1/23,Geelong,Victoria,3,Style And Grace,21,18,3,Small,Minimal,0.142857143,NO,NO,Patrick Moloney,G M Moloney,3,Good,NO,0
+252,4/1/23,Geelong,Victoria,4,Euro Dandy,5,3.3,1.7,Minimal,Decent,0.34,YES,NO,John Allen,Chris Calthorpe,3,Good,NO,1
+253,4/1/23,Geelong,Victoria,5,Princeton Award,4.5,3.5,1,Minimal,Decent,0.222222222,NO,NO,Damien Thornton,Symon Wilde,3,Good,YES,0
+254,4/1/23,Geelong,Victoria,6,Mt Niseko,17,15,2,Minimal,Minimal,0.117647059,NO,NO,Michael Dee,Ben & J D Hayes,3,Good,NO,0
+255,4/1/23,Geelong,Victoria,7,Savvy Sovereign,4.6,3.6,1,Minimal,Decent,0.217391304,NO,NO,Ben Allen,C Maher & D Eustace,3,Good,NO,0
+256,4/1/23,Geelong,Victoria,8,Rosalia,13,6,7,Big,Big,0.538461538,NO,YES,Christine Puls,Patrick Payne,3,Good,YES,1
+257,5/1/23,Wagga,New South Wales,1,Supido Beauty,2.6,2.15,0.45,Minimal,Minimal,0.173076923,NO,YES,H Williams,Darrell Burnet,4,Good,NO,1
+258,5/1/23,Wagga,New South Wales,2,Burrandana,8.5,3.6,4.9,Small,Big,0.576470588,NO,YES,Molly Bourke,P J Morgan,4,Good,YES,1
+259,5/1/23,Wagga,New South Wales,3,Zabellsareringing,8.5,8,0.5,Minimal,Minimal,0.058823529,NO,NO,Molly Bourke,D P Blundell,4,Good,NO,0
+260,5/1/23,Wagga,New South Wales,4,Kappy's Angel,4.5,2.05,2.45,Small,Big,0.544444444,YES,NO,Jett Stanley,G J Colvin,4,Good,YES,1
+261,5/1/23,Wagga,New South Wales,5,White Foot,51,34,17,Huge,Decent,0.333333333,NO,YES,Billy Owen,Shane Bloomfield,4,Good,NO,1
+262,5/1/23,Wagga,New South Wales,6,Harderthantherest,4.8,3.9,0.9,Minimal,Minimal,0.1875,YES,NO,D Budler,K R Dryden,4,Good,YES,1
+263,5/1/23,Wagga,New South Wales,7,Invertational,2.3,1.85,0.45,Minimal,Decent,0.195652174,NO,YES,Shaun Guymer,Matthew Kelley,4,Good,YES,1
+264,5/1/23,Wagga,New South Wales,8,Participator,2.9,1.95,0.95,Minimal,Decent,0.327586207,YES,NO,Danny Beasley,T P Donnelly,4,Good,YES,1
+265,7/1/23,Sandown,Victoria,1,Bistro,2.9,4.6,-1.7,Negative,None/Negative,-0.586206897,NO,NO,Matthew Cartwright,A & S Freedman,3,Good,NO,0
+266,7/1/23,Sandown,Victoria,2,So Si Bon,9.5,12,-2.5,Negative,None/Negative,-0.263157895,NO,NO,Jamie Kah,Ben & J D Hayes,3,Good,NO,0
+267,7/1/23,Sandown,Victoria,3,Worsfold,2.9,3,-0.1,Negative,None/Negative,-0.034482759,NO,NO,Damien Oliver,Nick Ryan,3,Good,NO,0
+268,7/1/23,Sandown,Victoria,4,So You See,3.5,3.8,-0.3,Negative,None/Negative,-0.085714286,NO,NO,Jamie Mott,M D Moroney,3,Good,NO,0
+269,7/1/23,Sandown,Victoria,5,On The Lead,13,9.5,3.5,Small,Decent,0.269230769,YES,NO,Brett Pebble,R & W Freedman,3,Good,NO,1
+270,7/1/23,Sandown,Victoria,6,Netanyahu,10,10,0,No Change,None/Negative,0,NO,NO,John Allen,L & T Corstens,3,Good,NO,0
+271,7/1/23,Sandown,Victoria,7,Riverplate,3.9,4,-0.1,Negative,None/Negative,-0.025641026,NO,NO,Damien Oliver,T Busuttin & N Young,3,Good,YES,0
+272,7/1/23,Sandown,Victoria,8,So Unusual,7.5,5.5,2,Minimal,Decent,0.266666667,NO,YES,Dean Holland,T & C McEvoy,3,Good,NO,1
+273,7/1/23,Sandown,Victoria,9,No Way Ever,9,7.5,1.5,Minimal,Minimal,0.166666667,NO,NO,Celine Gaudray,C Maher & D Eustace,3,Good,NO,0
+274,7/1/23,Rosehill,New South Wales,1,Pokerjack,21,12,9,Big,Big,0.428571429,NO,NO,Amy McLucas,Tash Burleigh,7,Soft,NO,0
+275,7/1/23,Rosehill,New South Wales,2,Danish Prince,11,7.5,3.5,Small,Decent,0.318181818,NO,YES,Dylan Gibbons,M C Collins,7,Soft,NO,1
+276,7/1/23,Rosehill,New South Wales,3,Passeggiata,2.45,2.2,0.25,Minimal,Minimal,0.102040816,NO,NO,Rachel King,Bjorn Baker,7,Soft,NO,0
+277,7/1/23,Rosehill,New South Wales,4,Excelladus,3.7,3.4,0.3,Minimal,Minimal,0.081081081,NO,NO,Nash Rawiller,John Thompson,7,Soft,YES,0
+278,7/1/23,Rosehill,New South Wales,5,Frumos,2.9,2.3,0.6,Minimal,Decent,0.206896552,NO,NO,Nash Rawiller,C J Waller,7,Soft,YES,0
+279,7/1/23,Rosehill,New South Wales,6,Vreneli,4.6,4,0.6,Minimal,Minimal,0.130434783,NO,NO,Regan Bayliss,G Waterhouse & A Bott,7,Soft,YES,0
+280,7/1/23,Rosehill,New South Wales,7,Mission Phoenix,10,6,4,Small,Big,0.4,NO,YES,Tyler Schiller,Mark Newnham,7,Soft,NO,1
+281,7/1/23,Rosehill,New South Wales,8,Bazooka,13,9.5,3.5,Small,Decent,0.269230769,NO,NO,E Hennessey,David Payne,7,Soft,NO,0
+282,7/1/23,Rosehill,New South Wales,9,Logan Street Lion,6.5,7,-0.5,Negative,None/Negative,-0.076923077,NO,NO,Tommy Berry,C J Waller,7,Soft,NO,0
+283,7/1/23,Rosehill,New South Wales,10,Titanium Power,16,7.5,8.5,Big,Big,0.53125,NO,NO,Glyn Schofield,Joseph Pride,7,Soft,NO,0
+284,8/1/23,Mornington,Victoria,1,So Greysful,5,2.7,2.3,Small,Big,0.46,YES,NO,Carleen Hefel,P G Moody,3,Good,YES,1
+285,8/1/23,Mornington,Victoria,2,Nakedness,3.5,5.5,-2,Negative,None/Negative,-0.571428571,NO,NO,Beau Mertens,John McArdle,3,Good,NO,0
+286,8/1/23,Mornington,Victoria,3,Reo,10,4.4,5.6,Big,Big,0.56,YES,NO,Damien Thornton,Richard Laming,3,Good,NO,1
+287,8/1/23,Mornington,Victoria,4,California Longbow,12,14,-2,Negative,None/Negative,-0.166666667,NO,NO,Brian Higgins,Kane Harris,3,Good,NO,0
+288,8/1/23,Mornington,Victoria,5,Tametomo,4.8,7,-2.2,Negative,None/Negative,-0.458333333,NO,NO,Craig Newitt,T Busuttin & N Young,3,Good,NO,0
+289,8/1/23,Mornington,Victoria,6,I'm Divine,2.9,2.4,0.5,Minimal,Minimal,0.172413793,NO,YES,Damien Thornton,Matthew Smith,3,Good,YES,1
+290,8/1/23,Mornington,Victoria,7,Tax Free Prophet,5.5,2.05,3.45,Small,Huge,0.627272727,YES,NO,Jamie Mott,Jason Warren,3,Good,YES,1
+291,9/1/23,Taree,New South Wales,1,Another Spirit,3.5,6,-2.5,Negative,None/Negative,-0.714285714,NO,NO,Ben Looker,J D Shelton,6,Soft,NO,0
+292,9/1/23,Taree,New South Wales,2,Iron Hat,2.4,4.4,-2,Negative,None/Negative,-0.833333333,NO,NO,Ashley Morgan,J Bowen,6,Soft,NO,0
+293,9/1/23,Taree,New South Wales,3,Donnacan,16,17,-1,Negative,None/Negative,-0.0625,NO,NO,Mikayla Weir,M S Minervini,6,Soft,NO,0
+294,9/1/23,Taree,New South Wales,4,Clay Pan Boogie,8.5,10,-1.5,Negative,None/Negative,-0.176470588,NO,NO,Daryl Mclellan,Joseph Burges,6,Soft,NO,0
+295,9/1/23,Taree,New South Wales,5,Much More Torque,6.5,3,3.5,Small,Big,0.538461538,NO,YES,Luke Rolls,D G Hodge,6,Soft,YES,1
+296,9/1/23,Taree,New South Wales,6,Lady Goodfellow,14,7.5,6.5,Big,Big,0.464285714,NO,YES,John Grisedale,R N Godbolt,6,Soft,NO,1
+297,9/1/23,Taree,New South Wales,7,Koondeman,12,13,-1,Negative,None/Negative,-0.083333333,NO,NO,Luke Rolls,J D Shelton,6,Soft,NO,0
+298,10/1/23,Rockhampton,Queensland,1,Palace House,3.4,4.2,-0.8,Negative,None/Negative,-0.235294118,NO,NO,Tasha Chambers,Tasha Chambers,4,Good,NO,0
+299,10/1/23,Rockhampton,Queensland,2,Divine Purpose,1.9,1.45,0.45,Minimal,Decent,0.236842105,YES,NO,Justin Stanley,Clinton Taylor,4,Good,YES,1
+300,10/1/23,Rockhampton,Queensland,3,Kick on Demand,2.1,1.5,0.6,Minimal,Decent,0.285714286,YES,NO,Ashley Butler,Clinton Taylor,4,Good,YES,1
+301,10/1/23,Rockhampton,Queensland,4,Aleaco,11,10,1,Minimal,Minimal,0.090909091,NO,NO,Jason Taylor,G R Green,4,Good,NO,0
+302,10/1/23,Rockhampton,Queensland,5,Age of Innocence,2.35,2.35,0,No Change,None/Negative,0,NO,NO,Tahlia Fenlon,Nick Walsh,4,Good,YES,0
+303,11/1/23,Sandown,Victoria,1,Nunthorpe,2.2,1.6,0.6,Minimal,Decent,0.272727273,YES,NO,Jamie Kah,P G Moody,4,Good,YES,1
+304,11/1/23,Sandown,Victoria,2,Attrition,3.35,3.2,0.15,Minimal,Minimal,0.044776119,NO,NO,Jarrod Fry,Mitchell Freedman,4,Good,NO,0
+305,11/1/23,Sandown,Victoria,3,Ebony King,16,15,1,Minimal,Minimal,0.0625,NO,NO,Jordan Childs,G M Begg,4,Good,NO,0
+306,11/1/23,Sandown,Victoria,4,That’s Incranibull,21,34,-13,Negative,None/Negative,-0.619047619,NO,NO,Michael Dee,Patrick Payne,4,Good,NO,0
+307,11/1/23,Sandown,Victoria,5,Marcolt,8.5,6,2.5,Small,Decent,0.294117647,NO,NO,Harry Coffey,Patrick Payne,4,Good,NO,0
+308,11/1/23,Sandown,Victoria,6,Sonora,3.4,2.2,1.2,Minimal,Decent,0.352941176,NO,YES,Jamie Kah,C Maher & D Eustace,4,Good,YES,1
+309,11/1/23,Sandown,Victoria,7,Field of Praise,10,7.5,2.5,Small,Decent,0.25,NO,NO,Laura Lafferty,Ben & J D Hayes,4,Good,NO,0
+310,11/1/23,Sandown,Victoria,8,Joltin' Joe,15,12,3,Small,Decent,0.2,NO,NO,Lachlan King,Paul & T Templeton,4,Good,NO,0
+311,11/1/23,Warwick Farm,New South Wales,1,Moscow Night,8.5,5,3.5,Small,Big,0.411764706,NO,NO,Tim Clark,G Waterhouse & A Bott,3,Good,NO,0
+312,11/1/23,Warwick Farm,New South Wales,2,Moonlight Grace,5,4,1,Minimal,Decent,0.2,NO,NO,Dylan Gibbons,Allan Kehoe,3,Good,NO,0
+313,11/1/23,Warwick Farm,New South Wales,3,Hollywood North,4.2,6.5,-2.3,Negative,None/Negative,-0.547619048,NO,NO,Kerrin Mcevoy,C J Waller,3,Good,NO,0
+314,11/1/23,Warwick Farm,New South Wales,4,Chenin,2.8,2.9,-0.1,Negative,None/Negative,-0.035714286,NO,NO,Tyler Schiller,Mark Newnham,3,Good,YES,0
+315,11/1/23,Warwick Farm,New South Wales,5,Arranmore,13,10,3,Small,Decent,0.230769231,NO,YES,Tommy Berry,C J Waller,3,Good,NO,1
+316,11/1/23,Warwick Farm,New South Wales,6,Command Approved,3,3,0,No Change,None/Negative,0,NO,NO,Tim Clark,Matthew Smith,3,Good,YES,0
+317,11/1/23,Warwick Farm,New South Wales,7,Think About It,3,2.35,0.65,Minimal,Decent,0.216666667,YES,NO,Sam Clipperton,Joseph Pride,3,Good,YES,1
+318,12/1/23,Pakenham,Victoria,1,The Instructor,3.2,1.9,1.3,Minimal,Big,0.40625,NO,YES,Jordan Childs,G Waterhouse & A Bott,4,Good,YES,1
+319,12/1/23,Pakenham,Victoria,2,Lievore,13,7,6,Big,Big,0.461538462,YES,NO,Ethan Brown,N Burke,4,Good,NO,1
+320,12/1/23,Pakenham,Victoria,3,South Parade,6,3.5,2.5,Small,Big,0.416666667,YES,NO,Emily Pozman,J D Sadler,4,Good,YES,1
+321,12/1/23,Pakenham,Victoria,5,Shaime,7.5,2.3,5.2,Big,Huge,0.693333333,YES,NO,Beau Mertens,C I Brown,4,Good,YES,1
+322,12/1/23,Pakenham,Victoria,6,Aminikii,6.5,11,-4.5,Negative,None/Negative,-0.692307692,NO,NO,Ethan Brown,Jason Warren,4,Good,NO,0
+323,12/1/23,Pakenham,Victoria,7,Seafield Road,23,9.5,13.5,Huge,Big,0.586956522,YES,NO,Josh Cartwright,N J Harnett,4,Good,NO,1
+324,12/1/23,Pakenham,Victoria,8,Waitapu,19,17,2,Minimal,Minimal,0.105263158,NO,NO,Jake Noonan,T Busuttin & N Young,4,Good,NO,0
+325,13/1/23,Geelong,Victoria,1,Scuderia,7,3.7,3.3,Small,Big,0.471428571,YES,NO,John Allen,Thomas Carberry,3,Good,NO,1
+326,13/1/23,Geelong,Victoria,3,Vallencourt,18,31,-13,Negative,None/Negative,-0.722222222,NO,NO,Maddi Price,Mick Shepherdson,3,Good,NO,0
+327,13/1/23,Geelong,Victoria,4,Needsaname,14,13,1,Minimal,Minimal,0.071428571,NO,NO,Harry Grace,Simon Ryan,3,Good,NO,0
+328,13/1/23,Geelong,Victoria,5,Sassolino,4.2,3.8,0.4,Minimal,Minimal,0.095238095,NO,NO,Daniel Stackhouse,M D Moroney,3,Good,NO,0
+329,13/1/23,Geelong,Victoria,6,The Last Napoleon,8,7,1,Minimal,Minimal,0.125,NO,NO,Steven Vella,Kyie Vella,3,Good,NO,0
+330,13/1/23,Geelong,Victoria,7,Legionnaire,9.5,4.5,5,Small,Big,0.526315789,YES,NO,S O'Meara,J F Moloney,3,Good,NO,1
+331,13/1/23,Geelong,Victoria,8,Cailloux,8,7,1,Minimal,Minimal,0.125,NO,NO,Dean Holland,Matthew Cumani,3,Good,NO,0
+332,14/1/23,Rosehill,New South Wales,1,Red Resistance,6.5,3.4,3.1,Small,Big,0.476923077,YES,NO,Brett Pebble,G Waterhouse & A Bott,4,Good,NO,1
+333,14/1/23,Rosehill,New South Wales,2,Kalino,3.5,3.2,0.3,Minimal,Minimal,0.085714286,NO,NO,Dylan Gibbons,C J Waller,4,Good,YES,0
+334,14/1/23,Rosehill,New South Wales,3,Trooper Knuckle,7.5,9.5,-2,Negative,None/Negative,-0.266666667,NO,NO,Amy McLucas,K R Dryden,4,Good,NO,0
+335,14/1/23,Rosehill,New South Wales,4,Ringmaster,6,6,0,No Change,None/Negative,0,NO,NO,Brett Pebble,Michael Freedman,4,Good,NO,0
+336,14/1/23,Rosehill,New South Wales,5,Hokkaido,34,12,22,Huge,Huge,0.647058824,YES,NO,Kathy O'Hara,Joseph Pride,4,Good,NO,1
+337,14/1/23,Rosehill,New South Wales,6,Dalaalaat,14,3.8,10.2,Huge,Huge,0.728571429,YES,NO,Dylan Gibbons,Nathan Doyle,4,Good,YES,1
+338,14/1/23,Rosehill,New South Wales,7,Mariamia,8,8.5,-0.5,Negative,None/Negative,-0.0625,NO,NO,Dylan Gibbons,Joseph Pride,4,Good,NO,0
+339,14/1/23,Rosehill,New South Wales,8,Banju,5.5,4.6,0.9,Minimal,Minimal,0.163636364,NO,NO,Kerrin Mcevoy,Lyle Chandler,4,Good,YES,0
+340,14/1/23,Rosehill,New South Wales,9,Irish Legend,11,8.5,2.5,Small,Decent,0.227272727,NO,NO,Brock Ryan,L J Bridge,4,Good,NO,0
+341,14/1/23,Rosehill,New South Wales,10,Kir Royale,6.5,5,1.5,Minimal,Decent,0.230769231,NO,NO,John Allen,C J Waller,4,Good,NO,0
+342,14/1/23,Flemington,Victoria,1,Veecee,4,4.8,-0.8,Negative,None/Negative,-0.2,NO,NO,Ethan Brown,C Maher & D Eustace,3,Good,NO,0
+343,14/1/23,Flemington,Victoria,2,Dunkel,2.05,1.85,0.2,Minimal,Minimal,0.097560976,YES,NO,Harry Coffey,Patrick Payne,3,Good,YES,1
+344,14/1/23,Flemington,Victoria,3,Princess Rhaenys,11,8.5,2.5,Small,Decent,0.227272727,NO,NO,Carleen Hefel,P G Moody,3,Good,NO,0
+345,14/1/23,Flemington,Victoria,4,Spirit Ridge,6,3.4,2.6,Small,Big,0.433333333,NO,YES,Blake Shinn,Annabel Neasham,3,Good,YES,1
+346,14/1/23,Flemington,Victoria,5,Belle Et Riche,4.2,2.6,1.6,Minimal,Decent,0.380952381,YES,NO,Jordan Childs,Mitchell Freedman,3,Good,YES,1
+347,14/1/23,Flemington,Victoria,6,Snapper,8.5,5.5,3,Small,Decent,0.352941176,NO,NO,Jye McNeil,M D Moroney,3,Good,NO,0
+348,14/1/23,Flemington,Victoria,7,Beltoro,7.5,7,0.5,Minimal,Minimal,0.066666667,NO,NO,Teo Nugent,Robert Hickmott,3,Good,NO,0
+349,14/1/23,Flemington,Victoria,8,D'jumbuck,4.6,6,-1.4,Negative,None/Negative,-0.304347826,NO,NO,Blake Shinn,Brian McGrath,3,Good,NO,0
+350,14/1/23,Flemington,Victoria,9,Shove Over,17,8,9,Big,Big,0.529411765,YES,NO,Teo Nugent,J F Moloney,3,Good,NO,1
+351,15/1/23,Orange,New South Wales,1,Fine Vintage,2.8,4.5,-1.7,Negative,None/Negative,-0.607142857,NO,NO,Louise Day,G Portelli,5,Soft,NO,0
+352,15/1/23,Orange,New South Wales,2,Sizzle Minizzle,2.1,2.25,-0.15,Negative,None/Negative,-0.071428571,NO,NO,Clayton Gallagher,Brett Robb,5,Soft,YES,0
+353,15/1/23,Orange,New South Wales,3,Titan Star,7.5,6.5,1,Minimal,Minimal,0.133333333,NO,NO,Molly Bourke,M F Van Gestel,5,Soft,NO,0
+354,15/1/23,Orange,New South Wales,4,Salisano,5.5,6,-0.5,Negative,None/Negative,-0.090909091,NO,NO,Winona Costin,Bjorn Baker,5,Soft,NO,0
+355,15/1/23,Orange,New South Wales,5,Barry The Poet,26,4.2,21.8,Huge,Huge,0.838461538,YES,NO,Clayton Gallagher,Brett Thompson,5,Soft,NO,1
+356,15/1/23,Orange,New South Wales,6,Whatsin,6.5,5.5,1,Minimal,Minimal,0.153846154,NO,NO,Jamie Powell,D R Mirfin,5,Soft,NO,0
+357,15/1/23,Orange,New South Wales,7,Sea of Flames,9.5,3,6.5,Big,Huge,0.684210526,YES,NO,Jake Barrett,M R Mulholland,5,Soft,NO,1
+358,15/1/23,Orange,New South Wales,8,How's It Kev,9,4.2,4.8,Small,Big,0.533333333,NO,YES,William Stanley,A Smith,5,Soft,NO,1
+359,15/1/23,Moe,Victoria,1,Sweet Liason,14,23,-9,Negative,None/Negative,-0.642857143,NO,NO,Carleen Hefel,N J Harnett,4,Good,NO,0
+360,15/1/23,Moe,Victoria,2,Gold Revolver,4.4,2.05,2.35,Small,Big,0.534090909,YES,NO,Teo Nugent,G Waterhouse & A Bott,4,Good,YES,1
+361,15/1/23,Moe,Victoria,3,Silkstar,2.45,1.65,0.8,Minimal,Decent,0.326530612,NO,NO,Daniel Moor,M Price & M K Jnr,4,Good,YES,0
+362,15/1/23,Moe,Victoria,4,Fam Gorman,4,3.2,0.8,Minimal,Decent,0.2,NO,NO,Ben Allen,K L Corstens,4,Good,YES,0
+363,15/1/23,Moe,Victoria,5,Red Stilleto,9.5,3.7,5.8,Big,Huge,0.610526316,YES,NO,Ryan Houston,Paul & T Templeton,4,Good,NO,1
+364,15/1/23,Moe,Victoria,6,Avid General,6.5,11,-4.5,Negative,None/Negative,-0.692307692,NO,NO,Teo Nugent,Jody Thompson,4,Good,NO,0
+365,15/1/23,Moe,Victoria,7,Tan Tat Magic,12,20,-8,Negative,None/Negative,-0.666666667,NO,NO,Craig Newitt,Gavin Bedggood,4,Good,NO,0
+366,15/1/23,Moe,Victoria,8,Commodus,3.1,2.15,0.95,Minimal,Decent,0.306451613,YES,NO,Craig Newitt,Mark Sues,4,Good,YES,1
+367,16/1/23,Muswellbrook,New South Wales,1,Zoria's Hero,2.4,5,-2.6,Negative,None/Negative,-1.083333333,NO,NO,Winona Costin,Tim McIntosh,4,Good,NO,0
+368,16/1/23,Muswellbrook,New South Wales,2,Florida Sky,3.7,2.7,1,Minimal,Decent,0.27027027,NO,NO,Winona Costin,P M Perry,4,Good,YES,0
+369,16/1/23,Muswellbrook,New South Wales,3,Agirlsbestfriend,5,3.8,1.2,Minimal,Decent,0.24,NO,NO,Jenny Duggan,M P Quinn,4,Good,NO,0
+370,16/1/23,Muswellbrook,New South Wales,4,Nobel,5.5,3.4,2.1,Small,Decent,0.381818182,YES,NO,Aaron Bullock,Richard Litt,4,Good,NO,1
+371,16/1/23,Muswellbrook,New South Wales,5,Tucson Valley,3.7,5.5,-1.8,Negative,None/Negative,-0.486486486,NO,NO,Rachael Murray,S C Jones,4,Good,NO,0
+372,16/1/23,Muswellbrook,New South Wales,6,Stormy Pluck,8,8.5,-0.5,Negative,None/Negative,-0.0625,NO,NO,Winona Costin,Tim McIntosh,4,Good,NO,0
+373,16/1/23,Queanbeyan,New South Wales,1,Spiritual Gal,10,7,3,Small,Decent,0.3,NO,NO,Damon Budler,D J Rolfe,4,Good,NO,0
+374,16/1/23,Queanbeyan,New South Wales,2,Bel's In Charge,14,5,9,Big,Huge,0.642857143,YES,NO,Louise Day,Blake Ryan,4,Good,NO,1
+375,16/1/23,Queanbeyan,New South Wales,3,Mills,6,5.5,0.5,Minimal,Minimal,0.083333333,NO,NO,Jett Stanley,M & W & J Hawkes,4,Good,NO,0
+376,16/1/23,Queanbeyan,New South Wales,4,Howling Victory,1.95,1.85,0.1,FALSE,Minimal,0.051282051,NO,NO,Billy Owen,N J Olive,4,Good,YES,0
+377,16/1/23,Queanbeyan,New South Wales,5,Military Manoeuver,3.1,3.8,-0.7,Negative,None/Negative,-0.225806452,NO,NO,Molly Bourke,Doug Gorrel,4,Good,YES,0
+378,16/1/23,Queanbeyan,New South Wales,6,Spats Pav Bowie,4,2.45,1.55,Minimal,Decent,0.3875,NO,YES,Jess Taylor,J M Austin,4,Good,YES,1
+379,16/1/23,Queanbeyan,New South Wales,7,Bring The Rabble,2.9,1.65,1.25,Minimal,Big,0.431034483,YES,NO,Jake Barrett,Allan Kehoe,4,Good,YES,1
+380,17/1/23,Newcastle,New South Wales,1,Shalaa's Moment,5.5,5,0.5,Minimal,Minimal,0.090909091,NO,YES,Brett Pebble,Brad Widdup,4,Good,NO,1
+381,17/1/23,Newcastle,New South Wales,2,Border Control,5,4.6,0.4,Minimal,Minimal,0.08,NO,NO,Rachel King,Adam Duggan,4,Good,NO,0
+382,17/1/23,Newcastle,New South Wales,3,Dear Jewel,6,6.5,-0.5,Negative,None/Negative,-0.083333333,NO,NO,Andrew Adkins,M & W & J Hawkes,4,Good,NO,0
+383,17/1/23,Newcastle,New South Wales,4,Infinitive,3.3,3,0.3,Minimal,Minimal,0.090909091,NO,NO,Lee Magorrian,C J Waller,4,Good,YES,0
+384,17/1/23,Newcastle,New South Wales,5,Last Hand,35,13,22,Huge,Huge,0.628571429,NO,YES,Alysha Collett,Joseph Pride,4,Good,NO,1
+385,17/1/23,Newcastle,New South Wales,6,Cheerful Legend,4.4,2.5,1.9,Minimal,Big,0.431818182,YES,NO,Koby Jennings,Nathan Doyle,4,Good,YES,1
+386,17/1/23,Newcastle,New South Wales,7,Showtime Lady,5,4,1,Minimal,Decent,0.2,NO,NO,Amy McLucas,Brad Widdup,4,Good,NO,0
+387,17/1/23,Hamilton,Victoria,1,Okahune Carrot,12,15,-3,Negative,None/Negative,-0.25,NO,NO,Beau Mertens,E & D Browne,3,Good,NO,0
+388,17/1/23,Hamilton,Victoria,2,Sabar,3.4,2.7,0.7,Minimal,Decent,0.205882353,NO,NO,Beau Mertens,L Smith,3,Good,YES,0
+389,17/1/23,Hamilton,Victoria,3,Laggan,9,4.8,4.2,Small,Big,0.466666667,NO,NO,Josh Cartwright,P Kearney,3,Good,NO,0
+390,17/1/23,Hamilton,Victoria,4,Dillinger,2.6,1.7,0.9,Minimal,Decent,0.346153846,YES,NO,Dean Holland,T & C McEvoy,3,Good,YES,1
+391,17/1/23,Hamilton,Victoria,5,Mahrez,8.5,4.5,4,Small,Big,0.470588235,NO,NO,Tom Madden,L Smith,3,Good,NO,0
+392,17/1/23,Hamilton,Victoria,6,Pontificate,9,5,4,Small,Big,0.444444444,NO,NO,Dean Holland,T & C McEvoy,3,Good,NO,0
+393,17/1/23,Hamilton,Victoria,7,Just A Theory,2.7,3.6,-0.9,Negative,None/Negative,-0.333333333,NO,NO,Jarrod Fry,Mitchell Freedman,3,Good,NO,0
+394,17/1/23,Hamilton,Victoria,8,True Nobility,3,1.65,1.35,Minimal,Big,0.45,NO,NO,Dean Yendall,P A Chow,3,Good,YES,0
+395,18/1/23,Sandown,Victoria,1,Tick Tock Lady,3.6,3.8,-0.2,Negative,None/Negative,-0.055555556,NO,NO,Jordan Childs,G M Begg,6,Soft,NO,0
+396,18/1/23,Sandown,Victoria,2,Yasuke,9,4.8,4.2,Small,Big,0.466666667,NO,YES,Jye McNeil,C J Waller,6,Soft,NO,1
+397,18/1/23,Sandown,Victoria,3,Fantasising,12,7.5,4.5,Small,Decent,0.375,YES,NO,Jamie Kah,C I Brown,6,Soft,NO,1
+398,18/1/23,Sandown,Victoria,4,Miso,2.4,1.7,0.7,Minimal,Decent,0.291666667,NO,NO,Ethan Brown,Daniel Bowman,6,Soft,YES,0
+399,18/1/23,Sandown,Victoria,5,Blakmax,3.3,1.85,1.45,Minimal,Big,0.439393939,NO,NO,Damien Oliver,L Smith,6,Soft,YES,0
+400,18/1/23,Sandown,Victoria,6,Calico Jack,3.5,3.3,0.2,Minimal,Minimal,0.057142857,NO,NO,Ethan Brown,C Maher & D Eustace,6,Soft,YES,0
+401,18/1/23,Sandown,Victoria,7,Benedetta,3.4,2.1,1.3,Minimal,Decent,0.382352941,NO,YES,Daniel Stackhouse,Jason Warren,6,Soft,YES,1
+402,18/1/23,Sandown,Victoria,8,Electric Belle,23,11,12,Huge,Big,0.52173913,YES,NO,Thomas Stockdale,Alexander Rae,6,Soft,NO,1
+403,19/1/23,Gold Coast,Queensland,1,Alpine Edge,2.2,2.5,-0.3,Negative,None/Negative,-0.136363636,NO,NO,James McDonald,A J & T Edmonds,5,Soft,YES,0
+404,19/1/23,Gold Coast,Queensland,2,Sky Lab,5,5.5,-0.5,Negative,None/Negative,-0.1,NO,NO,Jason Collett,P M Perry,5,Soft,YES,0
+405,19/1/23,Gold Coast,Queensland,3,Skirt The Law,6,6.5,-0.5,Negative,None/Negative,-0.083333333,NO,NO,Ryan Maloney,T J Gollan,5,Soft,NO,0
+406,19/1/23,Gold Coast,Queensland,4,Fashion Legend,18,23,-5,Negative,None/Negative,-0.277777778,NO,NO,Joshua Parr,R & W Freedman,5,Soft,NO,0
+407,19/1/23,Gold Coast,Queensland,5,Brookspire,5,5,0,No Change,None/Negative,0,NO,NO,James McDonald,C J Waller,5,Soft,NO,0
+408,19/1/23,Gold Coast,Queensland,6,King Of Sparta,2.25,1.85,0.4,Minimal,Minimal,0.177777778,NO,YES,James McDonald,P & P Snowden,5,Soft,YES,1
+409,19/1/23,Gold Coast,Queensland,7,Centrefire,26,31,-5,Negative,None/Negative,-0.192307692,NO,NO,Tim Clark,Chris Munce,5,Soft,NO,0
+410,19/1/23,Gold Coast,Queensland,8,Vinco,51,26,25,Huge,Big,0.490196078,NO,YES,Ben Thompson,T J Gollan,5,Soft,NO,1
+411,19/1/23,Pakenham,Victoria,1,Winds of March,12,11,1,Minimal,Minimal,0.083333333,NO,NO,Daniel Stackhouse,Simon Zahra,4,Good,NO,0
+412,19/1/23,Pakenham,Victoria,2,Keitel,2.3,2.7,-0.4,Negative,None/Negative,-0.173913043,NO,NO,Patrick Moloney,M Price & M K Jnr,4,Good,NO,0
+413,19/1/23,Pakenham,Victoria,3,Marble Arch,2.7,2.35,0.35,Minimal,Minimal,0.12962963,NO,YES,Daniel Stackhouse,Ben & J D Hayes,4,Good,YES,1
+414,19/1/23,Pakenham,Victoria,4,Lady Tino,4,3,1,Minimal,Decent,0.25,NO,YES,Damien Thornton,Jerome Hunter,4,Good,NO,1
+415,19/1/23,Pakenham,Victoria,5,Flash Flood,3.8,3.2,0.6,Minimal,Minimal,0.157894737,NO,NO,Ethan Brown,C Maher & D Eustace,4,Good,YES,0
+416,19/1/23,Pakenham,Victoria,6,Northern Barrage,5.5,5,0.5,Minimal,Minimal,0.090909091,NO,NO,Ethan Brown,M C Kent,4,Good,NO,0
+417,19/1/23,Pakenham,Victoria,7,Cable De Vega,10,9,1,Minimal,Minimal,0.1,NO,NO,Daniel Stackhouse,Michael Huglin,4,Good,NO,0
+418,19/1/23,Pakenham,Victoria,8,Jenniferwish,3.5,2.15,1.35,Minimal,Decent,0.385714286,YES,NO,Ethan Brown,Luke Oliver,4,Good,YES,1
+419,20/1/23,Flemington,Victoria,1,Theorum,6.5,6.5,0,No Change,None/Negative,0,NO,NO,Alana Kelly,E Jusufovic,3,Good,NO,0
+420,20/1/23,Flemington,Victoria,2,Smile And Wave,3,2.4,0.6,Minimal,Decent,0.2,NO,YES,Craig Newitt,A & S Freedman,3,Good,YES,1
+421,20/1/23,Flemington,Victoria,3,Anilla,4.8,4,0.8,Minimal,Minimal,0.166666667,NO,YES,Michael Dee,Ben & J D Hayes,3,Good,YES,1
+422,20/1/23,Flemington,Victoria,4,Pacific Ruby,2.5,1.7,0.8,Minimal,Decent,0.32,YES,NO,Jamie Kah,C Maher & D Eustace,3,Good,YES,1
+423,20/1/23,Flemington,Victoria,5,Gold Revolver,13,17,-4,Negative,None/Negative,-0.307692308,NO,NO,Jordan Childs,G Waterhouse & A Bott,3,Good,NO,0
+424,20/1/23,Flemington,Victoria,6,Red Hot Nicc,9,5,4,Small,Big,0.444444444,NO,NO,Zac Spain,P Stokes,3,Good,YES,0
+425,20/1/23,Flemington,Victoria,7,Senegalia,5,7.5,-2.5,Negative,None/Negative,-0.5,NO,NO,Jamie Kah,C Maher & D Eustace,3,Good,NO,0
+426,20/1/23,Canterbury,New South Wales,1,Citizenship,2.6,3.6,-1,Negative,None/Negative,-0.384615385,NO,NO,Tim Clark,C Maher & D Eustace,5,Soft,NO,0
+427,20/1/23,Canterbury,New South Wales,2,Ithadtobezou,3.5,2.7,0.8,Minimal,Decent,0.228571429,NO,NO,Kerrin Mcevoy,John Thompson,5,Soft,NO,0
+428,20/1/23,Canterbury,New South Wales,3,Essonne,6,5.5,0.5,Minimal,Minimal,0.083333333,NO,NO,Chad Schofield,Richard Litt,5,Soft,NO,0
+429,20/1/23,Canterbury,New South Wales,4,True Crime,4,4.2,-0.2,Negative,None/Negative,-0.05,NO,NO,Tyler Schiller,K Waugh,5,Soft,NO,0
+430,20/1/23,Canterbury,New South Wales,5,Taraashoq,6,6.5,-0.5,Negative,None/Negative,-0.083333333,NO,NO,Tyler Schiller,Mark Newnham,5,Soft,NO,0
+431,20/1/23,Canterbury,New South Wales,6,Julian Rock,8,9.5,-1.5,Negative,None/Negative,-0.1875,NO,NO,Kerrin Mcevoy,Jean Dubois,5,Soft,NO,0
+432,20/1/23,Canterbury,New South Wales,7,Rockribbed,3.7,2.05,1.65,Minimal,Big,0.445945946,NO,NO,James McDonald,C Maher & D Eustace,5,Soft,YES,0
+433,21/1/23,Randwick,New South Wales,1,Don Corleone,4.6,6.5,-1.9,Negative,None/Negative,-0.413043478,NO,NO,James McDonald,P & P Snowden,5,Soft,NO,0
+434,21/1/23,Randwick,New South Wales,2,Ripped,15,9,6,Big,Big,0.4,NO,YES,Jason Collett,R D Collett,5,Soft,NO,1
+435,21/1/23,Randwick,New South Wales,3,Smokeshow,12,6.5,5.5,Big,Big,0.458333333,NO,NO,Tyler Schiller,Danielle Seib,5,Soft,NO,0
+436,21/1/23,Randwick,New South Wales,4,Irish Legend,6.5,6.5,0,No Change,None/Negative,0,NO,NO,Brock Ryan,L J Bridge,5,Soft,NO,0
+437,21/1/23,Randwick,New South Wales,5,Lucky Variety,16,17,-1,Negative,None/Negative,-0.0625,NO,NO,Dylan Gibbons,K A Lees,5,Soft,NO,0
+438,21/1/23,Randwick,New South Wales,6,Cuban Royale,16,13,3,Small,Minimal,0.1875,NO,NO,Brock Ryan,R & L Price,5,Soft,NO,0
+439,21/1/23,Randwick,New South Wales,7,Banana Queen,4,4.5,-0.5,Negative,None/Negative,-0.125,NO,NO,Brenton Avdulla,G Ryan & S Alexiou,5,Soft,YES,0
+440,21/1/23,Randwick,New South Wales,8,Bluff 'N' Bluster,34,21,13,Huge,Decent,0.382352941,NO,NO,Louise Day,J C Coyle,5,Soft,NO,0
+441,21/1/23,Randwick,New South Wales,9,Beaufort Park,34,14,20,Huge,Big,0.588235294,YES,NO,Rachel King,Saab Hasan,5,Soft,NO,1
+442,21/1/23,Randwick,New South Wales,10,Diamond Dealer,10,7.5,2.5,Small,Decent,0.25,NO,NO,Jenny Duggan,Bjorn Baker,5,Soft,NO,0
+443,21/1/23,Mooney Valley,Victoria,1,Amur,7.5,3.4,4.1,Small,Big,0.546666667,YES,NO,Damien Oliver,James Cummings,3,Good,NO,1
+444,21/1/23,Mooney Valley,Victoria,2,Unflinching,1.75,1.9,-0.15,Negative,None/Negative,-0.085714286,NO,NO,Amy McLucas,A & S Freedman,3,Good,YES,0
+445,21/1/23,Mooney Valley,Victoria,3,Tillotson,15,9,6,Big,Big,0.4,YES,NO,Linda Meech,Tom Dabernig,3,Good,NO,1
+446,21/1/23,Mooney Valley,Victoria,4,Shuffle Dancer,2.1,1.55,0.55,Minimal,Decent,0.261904762,YES,NO,Ben Melham,P G Moody,3,Good,YES,1
+447,21/1/23,Mooney Valley,Victoria,5,Ain'tnodeeldun,4.8,4,0.8,Minimal,Minimal,0.166666667,NO,NO,Mark Zahra,A & S Freedman,3,Good,YES,0
+448,21/1/23,Mooney Valley,Victoria,6,The Hass,5.5,4.4,1.1,Minimal,Decent,0.2,NO,NO,Celine Gaudray,Julius Sandhu,3,Good,NO,0
+449,21/1/23,Mooney Valley,Victoria,7,Dance To Dubai,2.9,2.5,0.4,Minimal,Minimal,0.137931034,NO,NO,Carleen Hefel,P G Moody,3,Good,YES,0
+450,21/1/23,Mooney Valley,Victoria,8,Pounding,4.2,3.2,1,Minimal,Decent,0.238095238,NO,YES,Jamie Kah,P G Moody,3,Good,YES,1
+451,21/1/23,Mooney Valley,Victoria,9,Ima Shelby,11,12,-1,Negative,None/Negative,-0.090909091,NO,NO,Michael Dee,Ben & J D Hayes,3,Good,NO,0
+452,22/1/23,Mornington,Victoria,1,Scrambler,3.6,8.5,-4.9,Negative,None/Negative,-1.361111111,NO,NO,Jack Hill,Brett Scott,4,Good,NO,0
+453,22/1/23,Mornington,Victoria,2,Our Goddess,2.8,1.3,1.5,Minimal,Big,0.535714286,YES,NO,Ben Melham,C W McDonald,4,Good,YES,1
+454,22/1/23,Mornington,Victoria,3,Hissy Fit,4.2,2.15,2.05,Small,Big,0.488095238,YES,NO,Jamie Kah,Amy & Ash Yargi,4,Good,YES,1
+455,22/1/23,Mornington,Victoria,4,Vankukla,5,3.8,1.2,Minimal,Decent,0.24,NO,NO,Beau Mertens,T Busuttin & N Young,4,Good,NO,0
+456,22/1/23,Mornington,Victoria,5,Havisham,8,9.5,-1.5,Negative,None/Negative,-0.1875,NO,NO,Beau Mertens,Andrea Leek,4,Good,NO,0
+457,22/1/23,Mornington,Victoria,6,Kimberley Pearl,3.5,4.8,-1.3,Negative,None/Negative,-0.371428571,NO,NO,Michael Dee,C Maher & D Eustace,4,Good,NO,0
+458,22/1/23,Mornington,Victoria,7,She's Notorious,2.6,3.5,-0.9,Negative,None/Negative,-0.346153846,NO,NO,Beau Mertens,C W McDonald,4,Good,NO,0
+459,22/1/23,Mornington,Victoria,8,Tax Free Prophet,7,4.8,2.2,Small,Decent,0.314285714,NO,NO,Jamie Mott,Jason Warren,4,Good,NO,0
+460,22/1/23,Wyong,New South Wales,1,Pole Position,7.5,8,-0.5,Negative,None/Negative,-0.066666667,NO,NO,Chad Schofield,Joseph Pride,8,Heavy,NO,0
+461,22/1/23,Wyong,New South Wales,2,Brudenell,2.05,2.7,-0.65,Negative,None/Negative,-0.317073171,NO,NO,Aaron Bullock,K A Lees,8,Heavy,YES,0
+462,22/1/23,Wyong,New South Wales,3,Earl of Devon,14,7.5,6.5,Big,Big,0.464285714,YES,NO,Keagan Latham,John Thompson,8,Heavy,NO,1
+463,22/1/23,Wyong,New South Wales,4,Lim's Synergy,6,1.5,4.5,Small,Huge,0.75,YES,NO,Tyler Schiller,Mark Newnham,8,Heavy,YES,1
+464,22/1/23,Wyong,New South Wales,5,More Saintly,12,6,6,Big,Big,0.5,NO,NO,Chad Schofield,J A O'Shea,8,Heavy,NO,0
+465,22/1/23,Wyong,New South Wales,6,Real Peace,6,3.2,2.8,Small,Big,0.466666667,NO,YES,Tom Sherry,C E Connors,8,Heavy,YES,1
+466,22/1/23,Wyong,New South Wales,7,Izfallingdown,41,23,18,Huge,Big,0.43902439,NO,NO,Jess Taylor,T & P Vigouroux,8,Heavy,NO,0
+467,23/1/23,Goulburn,New South Wales,1,Midory Burly,4.6,7,-2.4,Negative,None/Negative,-0.52173913,NO,NO,Jett Stanley,Bjorn Baker,5,Soft,NO,0
+468,23/1/23,Goulburn,New South Wales,2,Luna Rocks,3,2.7,0.3,Minimal,Minimal,0.1,NO,NO,Alysha Collett,R & W Freedman,5,Soft,YES,0
+469,23/1/23,Goulburn,New South Wales,3,Pennypacker,3.9,5,-1.1,Negative,None/Negative,-0.282051282,NO,NO,Robbie Dolan,P & P Snowden,5,Soft,NO,0
+470,23/1/23,Goulburn,New South Wales,4,Iconic Dame,2.35,1.7,0.65,Minimal,Decent,0.276595745,NO,YES,Tyler Schiller,Jamie Stewart,5,Soft,YES,1
+471,23/1/23,Goulburn,New South Wales,5,Aspired,5,4,1,Minimal,Decent,0.2,NO,NO,Ruby Haylock,Mark Gee,5,Soft,NO,0
+472,23/1/23,Goulburn,New South Wales,6,Pure Hydrogen,3,1.9,1.1,Minimal,Decent,0.366666667,YES,NO,Robbie Dolan,John Thompson,5,Soft,YES,1
+473,23/1/23,Goulburn,New South Wales,7,Doola Teela,13,8,5,Small,Decent,0.384615385,NO,NO,Jeff Penza,G R Nickson,5,Soft,NO,0
+474,23/1/23,Armidale,New South Wales,1,Turnaway,2.5,2.1,0.4,Minimal,Minimal,0.16,NO,NO,Brooke Stower,Cameron Crockett,5,Soft,NO,0
+475,23/1/23,Armidale,New South Wales,2,Outback Ringer,7,5,2,Minimal,Decent,0.285714286,NO,YES,Luke Rolls,Cody Morgan,5,Soft,NO,1
+476,23/1/23,Armidale,New South Wales,3,Glencoe Pearl,11,11,0,No Change,None/Negative,0,NO,NO,Brooke Stower,W Oakenfull,5,Soft,NO,0
+477,23/1/23,Armidale,New South Wales,4,Crime Spree,9,7,2,Minimal,Decent,0.222222222,YES,NO,Aaron Bullock,B F Cavanough,5,Soft,NO,1
+478,23/1/23,Armidale,New South Wales,5,Claptone,9.5,3.3,6.2,Big,Huge,0.652631579,YES,NO,Mikayla Weir,J Lynch,5,Soft,YES,1
+479,23/1/23,Armidale,New South Wales,6,Cassia Lane,13,11,2,Minimal,Minimal,0.153846154,NO,NO,Luke Rolls,J D Shelton,5,Soft,NO,0
+480,23/1/23,Armidale,New South Wales,7,Super Looka,46,46,0,No Change,None/Negative,0,NO,NO,Rachael Murray,G L Woodward,5,Soft,NO,0
+481,24/1/23,Moe,Victoria,1,Skeptcism,2.9,2.6,0.3,Minimal,Minimal,0.103448276,NO,NO,Daniel Moor,T Busuttin & N Young,4,Good,YES,0
+482,24/1/23,Moe,Victoria,3,Royal Wazi,11,4.8,6.2,Big,Big,0.563636364,NO,NO,Damien Thornton,Jerome Hunter,4,Good,NO,0
+483,24/1/23,Moe,Victoria,4,Triumphant Miss,2.8,3.9,-1.1,Negative,None/Negative,-0.392857143,NO,NO,Thomas Stockdale,P G Moody,4,Good,NO,0
+484,24/1/23,Moe,Victoria,5,Frenzy Lune,5.5,2.8,2.7,Small,Big,0.490909091,YES,NO,Celine Gaudray,Greg Hayes,4,Good,NO,1
+485,24/1/23,Moe,Victoria,6,Rossman,4.8,3.1,1.7,Minimal,Decent,0.354166667,YES,NO,Ben Allen,D R Brideoak,4,Good,NO,1
+486,24/1/23,Moe,Victoria,7,Soju Session,4.2,3.9,0.3,Minimal,Minimal,0.071428571,NO,NO,Craig Newitt,T Busuttin & N Young,4,Good,YES,0
+487,24/1/23,Moe,Victoria,8,Mr Blackwood,4.4,3,1.4,Minimal,Decent,0.318181818,NO,YES,Daniel Moor,C Alderson,4,Good,NO,1
+488,25/1/23,Geraldton,Western Australia,1,Iht's Closing Inn,2.15,2.8,-0.65,Negative,None/Negative,-0.302325581,NO,NO,Taj Dyson,A G Durrant,3,Good,YES,0
+489,25/1/23,Geraldton,Western Australia,2,Take Another Look,12,3.9,8.1,Big,Huge,0.675,YES,NO,Natasha Faithfull,P G Moses,3,Good,NO,1
+490,25/1/23,Geraldton,Western Australia,3,Designated Drinker,2.9,2.8,0.1,Minimal,Minimal,0.034482759,NO,NO,Peta Edwards,B P Newnham,3,Good,NO,0
+491,25/1/23,Geraldton,Western Australia,4,Mocha Dream,1.6,1.75,-0.15,Negative,None/Negative,-0.09375,NO,NO,Brayden Gaerth,A G Durrant,3,Good,YES,0
+492,25/1/23,Geraldton,Western Australia,5,Three Sessions,2.7,2.2,0.5,Minimal,Minimal,0.185185185,NO,YES,Peta Edwards,B P Newnham,3,Good,YES,1
+493,25/1/23,Geraldton,Western Australia,6,Yes Miss Jane,5.5,3.5,2,Minimal,Decent,0.363636364,NO,YES,Lisa Staples,R Macphilomey,3,Good,YES,1
+494,25/1/23,Geraldton,Western Australia,7,Passport,14,8.5,5.5,Big,Big,0.392857143,YES,NO,Victoria Corver,G W Hammarquist,3,Good,NO,1
+495,25/1/23,Geraldton,Western Australia,8,Justa Lil Faith,9.5,5,4.5,Small,Big,0.473684211,YES,NO,Natasha Faithfull,J Martin,3,Good,NO,1
+496,25/1/23,Pakenham,Victoria,1,Fistsoffury,12,8,4,Small,Decent,0.333333333,NO,YES,Damien Oliver,M & W & J Hawkes,3,Good,NO,1
+497,25/1/23,Pakenham,Victoria,2,Patrick,6,3.9,2.1,Small,Decent,0.35,NO,YES,Michael Dee,Ben & J D Hayes,3,Good,YES,1
+498,25/1/23,Pakenham,Victoria,3,Dancinginthedark,2.1,3.2,-1.1,Negative,None/Negative,-0.523809524,NO,NO,Ethan Brown,M C Kent,3,Good,NO,0
+499,25/1/23,Pakenham,Victoria,4,Tick Tock Boom,17,13,4,Small,Decent,0.235294118,NO,NO,Celine Gaudray,Julius Sandhu,3,Good,NO,0
+500,25/1/23,Pakenham,Victoria,5,Dante's Peak,21,23,-2,Negative,None/Negative,-0.095238095,NO,NO,Daniel Stackhouse,D Binaisse,3,Good,NO,0
+501,25/1/23,Pakenham,Victoria,6,Sheer Class,10,5,5,Small,Big,0.5,NO,YES,Jamie Mott,Ben & J D Hayes,3,Good,NO,1
+502,25/1/23,Pakenham,Victoria,7,Rhinoceros,4,4.4,-0.4,Negative,None/Negative,-0.1,NO,NO,Blake Shinn,E & D Browne,3,Good,NO,0
+503,25/1/23,Pakenham,Victoria,8,Suizuro,7,7.5,-0.5,Negative,None/Negative,-0.071428571,NO,NO,Daniel Moor,T Busuttin & N Young,3,Good,NO,0
+504,25/1/23,Gosford,New South Wales,1,Dissenter,11,12,-1,Negative,None/Negative,-0.090909091,NO,NO,Tyler Schiller,A Stapleford,4,Good,NO,0
+505,25/1/23,Gosford,New South Wales,2,State of America,4.4,4.4,0,No Change,None/Negative,0,NO,NO,Rachel King,David Payne,4,Good,NO,0
+506,25/1/23,Gosford,New South Wales,3,Announcing,4.6,3.9,0.7,Minimal,Minimal,0.152173913,NO,NO,Brenton Avdulla,J A O'Shea,4,Good,NO,0
+507,25/1/23,Gosford,New South Wales,4,Putt For Dough,5,3.7,1.3,Minimal,Decent,0.26,NO,NO,Winona Costin,Mick Attard,4,Good,NO,0
+508,25/1/23,Gosford,New South Wales,5,Nullify,7,11,-4,Negative,None/Negative,-0.571428571,NO,NO,Mitchell Bell,P & P Snowden,4,Good,NO,0
+509,25/1/23,Gosford,New South Wales,6,Michelle's Girl,11,27,-16,Negative,None/Negative,-1.454545455,NO,NO,Georgia Dobie,Kellie Nicholls,4,Good,NO,0
+510,25/1/23,Gosford,New South Wales,7,Allusionist,6,6.5,-0.5,Negative,None/Negative,-0.083333333,NO,NO,Ashley Morgan,R & W Freedman,4,Good,NO,0
+511,26/1/23,Warwick Farm,New South Wales,1,So Audacious,4.6,9,-4.4,Negative,None/Negative,-0.956521739,NO,NO,Rachel King,David Pfeiffer,5,Soft,NO,0
+512,26/1/23,Warwick Farm,New South Wales,2,Venelope,10,7.5,2.5,Small,Decent,0.25,NO,NO,Brenton Avdulla,C Maher & D Eustace,5,Soft,NO,0
+513,26/1/23,Warwick Farm,New South Wales,3,Watch The Clock,15,8,7,Big,Big,0.466666667,NO,YES,Sam Clipperton,R J Quinton,5,Soft,NO,1
+514,26/1/23,Warwick Farm,New South Wales,4,Espirito,26,23,3,Small,Minimal,0.115384615,NO,NO,Winona Costin,Paul Murray,5,Soft,NO,0
+515,26/1/23,Warwick Farm,New South Wales,5,Cadetship,3,4.8,-1.8,Negative,None/Negative,-0.6,NO,NO,James McDonald,C J Waller,5,Soft,YES,0
+516,26/1/23,Warwick Farm,New South Wales,6,Never Second,9.5,10,-0.5,Negative,None/Negative,-0.052631579,NO,NO,Brett Pebble,Annabel Neasham,5,Soft,NO,0
+517,26/1/23,Warwick Farm,New South Wales,7,Chalk Stream,16,21,-5,Negative,None/Negative,-0.3125,NO,NO,Regan Bayliss,C J Waller,5,Soft,NO,0
+518,26/1/23,Warwick Farm,New South Wales,8,Wollombi,6,4.5,1.5,Minimal,Decent,0.25,NO,NO,Sam Clipperton,P & P Snowden,5,Soft,NO,0
+519,26/1/23,Sandown,Victoria,1,Wahine Toa,4.4,4,0.4,Minimal,Minimal,0.090909091,NO,NO,Matthew Cartwright,C Maher & D Eustace,3,Good,YES,0
+520,26/1/23,Sandown,Victoria,2,Wishlor Lass,3.3,3.8,-0.5,Negative,None/Negative,-0.151515152,NO,NO,Josh Cartwright,Symon Wilde,3,Good,NO,0
+521,26/1/23,Sandown,Victoria,3,The Instructor,2.5,2,0.5,Minimal,Decent,0.2,NO,NO,Jordan Childs,G Waterhouse & A Bott,3,Good,YES,0
+522,26/1/23,Sandown,Victoria,4,De Sonic Boom,8.5,13,-4.5,Negative,None/Negative,-0.529411765,NO,NO,Blake Shinn,A & S Freedman,3,Good,NO,0
+523,26/1/23,Sandown,Victoria,5,Blow In,6.5,4.4,2.1,Small,Decent,0.323076923,YES,NO,Craig Williams,Jamie Edwards,3,Good,YES,1
+524,26/1/23,Sandown,Victoria,6,Star Patrol,2.2,2.9,-0.7,Negative,None/Negative,-0.318181818,NO,NO,Ben Melham,C W McDonald,3,Good,YES,0
+525,26/1/23,Sandown,Victoria,7,Jacquinot,1.75,2.05,-0.3,Negative,None/Negative,-0.171428571,NO,NO,Damian Lane,M Price & M K Jnr,3,Good,YES,0
+526,26/1/23,Sandown,Victoria,8,Gentleman Roy,3.1,3.3,-0.2,Negative,None/Negative,-0.064516129,NO,NO,Mark Zahra,Ben & J D Hayes,3,Good,YES,0
+527,26/1/23,Murray Bridge,South Australia,1,Classic Holly,3.7,4.6,-0.9,Negative,None/Negative,-0.243243243,NO,NO,M T Voorham,S Burford,3,Good,NO,0
+528,26/1/23,Murray Bridge,South Australia,2,Master At Arms,7,9.5,-2.5,Negative,None/Negative,-0.357142857,NO,NO,Jason Holder,S P Gower,3,Good,NO,0
+529,26/1/23,Murray Bridge,South Australia,3,Dual Fuel,9,2.8,6.2,Big,Huge,0.688888889,YES,NO,Anna Jordsjo,Peter Hardacre,3,Good,YES,1
+530,26/1/23,Murray Bridge,South Australia,4,Batting Above,9.5,7.5,2,Minimal,Decent,0.210526316,NO,NO,Ryan Hurdle,Grant Young,3,Good,NO,0
+531,26/1/23,Murray Bridge,South Australia,5,Fleurieu Flipper,3.5,4,-0.5,Negative,None/Negative,-0.142857143,NO,NO,Ellis Wong,R Day,3,Good,NO,0
+532,26/1/23,Murray Bridge,South Australia,6,They Call Me Alvin,3.8,3,0.8,Minimal,Decent,0.210526316,NO,YES,Ellis Wong,Shane & C Oxlade,3,Good,NO,1
+533,26/1/23,Murray Bridge,South Australia,7,Benz Baron,6,5.5,0.5,Minimal,Minimal,0.083333333,NO,NO,Ryan Hurdle,Grant Young,3,Good,NO,0
+534,26/1/23,Darwin,Northern Territory,1,Malibu Edition,7,4.5,2.5,Small,Decent,0.357142857,NO,YES,Sonja Wiseman,Tommy Logan,4,Good,NO,1
+535,26/1/23,Darwin,Northern Territory,3,Ankle Rolex,1.45,1.28,0.17,Minimal,Minimal,0.117241379,YES,NO,Jade Hampson,Patrick Johnston,4,Good,YES,1
+536,26/1/23,Darwin,Northern Territory,4,Nokondi,4.4,3.2,1.2,Minimal,Decent,0.272727273,NO,YES,Emma Lines,Philip Cole,4,Good,NO,1
+537,26/1/23,Darwin,Northern Territory,5,Zoumist,13,6.5,6.5,Big,Big,0.5,YES,NO,Jarrod Todd,Angela Forster,4,Good,NO,1
+538,26/1/23,Darwin,Northern Territory,6,Fromthenevernever,4.8,6.5,-1.7,Negative,None/Negative,-0.354166667,NO,NO,Sonja Wiseman,Tommy Logan,4,Good,NO,0
+539,27/1/23,Rockhampton,Queensland,1,Alloutatime,3.2,3.4,-0.2,Negative,None/Negative,-0.0625,NO,NO,Justin Stanley,Adrian Coome,8,Heavy,NO,0
+540,27/1/23,Rockhampton,Queensland,2,Empire Club,2.15,2.05,0.1,Minimal,Minimal,0.046511628,NO,NO,Jackson Murphy,D W Gardiner,8,Heavy,YES,0
+541,27/1/23,Rockhampton,Queensland,3,Siberian Route,2.7,4.2,-1.5,Negative,None/Negative,-0.555555556,NO,NO,Tahlia Fenlon,J H Manzelmann,8,Heavy,NO,0
+542,27/1/23,Rockhampton,Queensland,4,Checkers,3.4,6.5,-3.1,Negative,None/Negative,-0.911764706,NO,NO,Justin Stanley,S W Kendrick,8,Heavy,NO,0
+543,27/1/23,Rockhampton,Queensland,5,Thisland Is Myland,3,4,-1,Negative,None/Negative,-0.333333333,NO,NO,Les Tilley,G R Green,8,Heavy,NO,0
+544,27/1/23,Rockhampton,Queensland,6,Just Let It Out,8,5.5,2.5,Small,Decent,0.3125,NO,YES,Jason Taylor,G R Green,8,Heavy,NO,1
+545,27/1/23,Rockhampton,Queensland,7,Dollar Dollar,10,12,-2,Negative,None/Negative,-0.2,NO,NO,Justin Stanley,J E McConachy,8,Heavy,NO,0
+546,28/1/23,Alice Springs,Northern Territory,1,Lethal Encounter,2.35,2.8,-0.45,Negative,None/Negative,-0.191489362,NO,NO,Jarrod Todd,D Leech,4,Good,YES,0
+547,28/1/23,Alice Springs,Northern Territory,2,Madam Mischief,14,6,8,Big,Big,0.571428571,YES,NO,Sonja Wiseman,D Leech,4,Good,NO,1
+548,28/1/23,Alice Springs,Northern Territory,4,Miracoli,5.5,9.5,-4,Negative,None/Negative,-0.727272727,NO,NO,Jarrod Todd,D Leech,4,Good,NO,0
+549,28/1/23,Mooney Valley,Victoria,1,Eaton,31,51,-20,Negative,None/Negative,-0.64516129,NO,NO,Teo Nugent,M & L Cerci,4,Good,NO,0
+550,28/1/23,Mooney Valley,Victoria,2,Fighting Arrow,5.5,4.8,0.7,Minimal,Minimal,0.127272727,NO,NO,Blake Shinn,Chris Calthorpe,4,Good,NO,0
+551,28/1/23,Mooney Valley,Victoria,3,No Secret,10,7.5,2.5,Small,Decent,0.25,NO,YES,Blake Shinn,M D Moroney,4,Good,NO,1
+552,28/1/23,Mooney Valley,Victoria,4,Fission,9.5,5.5,4,Small,Big,0.421052632,NO,YES,Ethan Brown,R Griffiths & M De Kock,4,Good,NO,1
+553,28/1/23,Mooney Valley,Victoria,5,Mamaragan,4.2,4,0.2,Minimal,Minimal,0.047619048,NO,NO,Blake Shinn,Nick Ryan,4,Good,NO,0
+554,28/1/23,Mooney Valley,Victoria,6,Danny's St Darcy,8,6.5,1.5,Minimal,Minimal,0.1875,NO,YES,Celine Gaudray,Archie Alexander,4,Good,NO,1
+555,28/1/23,Mooney Valley,Victoria,7,Jigsaw,3.3,3.1,0.2,Minimal,Minimal,0.060606061,NO,NO,Daniel Moor,C Alderson,4,Good,YES,0
+556,28/1/23,Mooney Valley,Victoria,8,Kentucky Casanova,5,5.5,-0.5,Negative,None/Negative,-0.1,NO,NO,Laura Lafferty,Michael Huglin,4,Good,NO,0
+557,28/1/23,Mooney Valley,Victoria,9,Rambler Rebel,46,23,23,Huge,Big,0.5,NO,YES,Ethan Brown,Michelle Payne,4,Good,NO,1
+558,28/1/23,Rosehill,New South Wales,1,Eastern Glow,8.5,7.5,1,Minimal,Minimal,0.117647059,NO,NO,Tyler Schiller,K R Dryden,4,Good,NO,0
+559,28/1/23,Rosehill,New South Wales,2,Red Resistance,6,6,0,No Change,None/Negative,0,NO,NO,Brett Pebble,G Waterhouse & A Bott,4,Good,NO,0
+560,28/1/23,Rosehill,New South Wales,3,African Daisy,12,10,2,Minimal,Minimal,0.166666667,NO,NO,Chad Schofield,Annabel Neasham,4,Good,NO,0
+561,28/1/23,Rosehill,New South Wales,4,Thalassophile,3.7,3.8,-0.1,Negative,None/Negative,-0.027027027,NO,NO,James McDonald,C J Waller,4,Good,YES,0
+562,28/1/23,Rosehill,New South Wales,5,Learning To Fly,3.4,4.2,-0.8,Negative,None/Negative,-0.235294118,NO,NO,Chad Schofield,Annabel Neasham,4,Good,NO,0
+563,28/1/23,Rosehill,New South Wales,6,Starboreta,7,8.5,-1.5,Negative,None/Negative,-0.214285714,NO,NO,Tyler Schiller,Nathan Doyle,4,Good,NO,0
+564,28/1/23,Rosehill,New South Wales,7,Spacewalk,2.4,2.5,-0.1,Negative,None/Negative,-0.041666667,NO,NO,Reece Jones,James Cummings,4,Good,YES,0
+565,28/1/23,Rosehill,New South Wales,8,Mariamia,6,4.4,1.6,Minimal,Decent,0.266666667,NO,YES,Tim Clark,Joseph Pride,4,Good,NO,1
+566,28/1/23,Rosehill,New South Wales,9,Bold Mac,2.9,3.1,-0.2,Negative,None/Negative,-0.068965517,NO,NO,James McDonald,C J Waller,4,Good,NO,0
+567,28/1/23,Rosehill,New South Wales,10,Think About It,2.5,2,0.5,Minimal,Decent,0.2,NO,NO,Sam Clipperton,Joseph Pride,4,Good,YES,0
+568,29/1/23,Townsville,Queensland,1,Hey Bull,21,27,-6,Negative,None/Negative,-0.285714286,NO,NO,Carl Spry,Sarah Acornley,5,Soft,NO,0
+569,29/1/23,Townsville,Queensland,2,Forseti,5.5,6.5,-1,Negative,None/Negative,-0.181818182,NO,NO,Jackson Murphy,Georgina Bourke,5,Soft,NO,0
+570,29/1/23,Townsville,Queensland,3,Ciao Bicky,5.5,4.8,0.7,Minimal,Minimal,0.127272727,YES,NO,Jackson Murphy,Georgina Bourke,5,Soft,NO,1
+571,29/1/23,Townsville,Queensland,4,Lenny Rocket,9.5,10,-0.5,Negative,None/Negative,-0.052631579,NO,NO,Melea Castle,J H Manzelmann,5,Soft,NO,0
+572,29/1/23,Townsville,Queensland,5,Freddy Barbarossa,14,11,3,Small,Decent,0.214285714,NO,YES,Lacey Morrison,L McCormack,5,Soft,NO,1
+573,29/1/23,Townsville,Queensland,6,Tennessee Boy,8.5,7,1.5,Minimal,Minimal,0.176470588,NO,YES,Melea Castle,O Chillemi,5,Soft,NO,1
+574,29/1/23,Townsville,Queensland,7,Lily Allez,6.5,6.5,0,No Change,None/Negative,0,NO,NO,Scott Sheargold,R B Williams,5,Soft,NO,0
+575,29/1/23,Townsville,Queensland,8,Leadership Spill,4.4,7.5,-3.1,Negative,None/Negative,-0.704545455,NO,NO,Ashley Butler,Tim Cook,5,Soft,NO,0
+576,29/1/23,Pinjarra,Western Australia,1,Big Red Hawk,7,8.5,-1.5,Negative,None/Negative,-0.214285714,NO,NO,Brayden Gaerth,A G Durrant,4,Good,NO,0
+577,29/1/23,Pinjarra,Western Australia,2,Cruise To Victory,18,9,9,Big,Big,0.5,NO,YES,Keshaw Dhurun,M L Newman,4,Good,NO,1
+578,29/1/23,Pinjarra,Western Australia,3,Diamond Scene,3.3,3.4,-0.1,Negative,None/Negative,-0.03030303,NO,NO,William Pike,A G Durrant,4,Good,NO,0
+579,29/1/23,Pinjarra,Western Australia,4,Hot Chatter,4.4,3.1,1.3,Minimal,Decent,0.295454545,NO,YES,Lucy Warwick,G & A Williams,4,Good,NO,1
+580,29/1/23,Pinjarra,Western Australia,5,Digital Miss,10,6.5,3.5,Small,Decent,0.35,NO,YES,Tayla Childs,D Riordan,4,Good,NO,1
+581,29/1/23,Pinjarra,Western Australia,6,Elementary Holmes,11,13,-2,Negative,None/Negative,-0.181818182,NO,NO,Cassie Martinan,R Nairn,4,Good,NO,0
+582,29/1/23,Pinjarra,Western Australia,7,Madam Kisses,2.8,2,0.8,Minimal,Decent,0.285714286,NO,NO,Patrick Carbery,B A Miller,4,Good,YES,0
+583,29/1/23,Pinjarra,Western Australia,8,All The King's Men,3.2,2.9,0.3,Minimal,Minimal,0.09375,NO,NO,Paul Harvey,T M Andrews,4,Good,YES,0
+584,29/1/23,Pinjarra,Western Australia,9,High Commission,16,10,6,Big,Decent,0.375,NO,YES,William Pike,A G Durrant,4,Good,NO,1
+585,31/1/23,Kembla Grange,New South Wales,1,Western Front,2.6,2.35,0.25,Minimal,Minimal,0.096153846,NO,YES,Brett Pebble,Annabel Neasham,8,Heavy,YES,1
+586,31/1/23,Kembla Grange,New South Wales,2,Copper Moon,35,7,28,Huge,Huge,0.8,YES,NO,Jeff Penza,K J Parker,8,Heavy,NO,1
+587,31/1/23,Kembla Grange,New South Wales,3,Rakomelo,2,1.5,0.5,Minimal,Decent,0.25,NO,NO,Sam Clipperton,James Cummings,8,Heavy,YES,0
+588,31/1/23,Kembla Grange,New South Wales,4,Tempestas,20,6.5,13.5,Huge,Huge,0.675,NO,YES,E Hennessey,P & M Cave,8,Heavy,NO,1
+589,31/1/23,Kembla Grange,New South Wales,5,Jamberoo,26,8,18,Huge,Huge,0.692307692,YES,NO,E Hennessey,D Poidevin-Lane,8,Heavy,NO,1
+590,31/1/23,Kembla Grange,New South Wales,6,Whiskey Wisdom,3.9,2,1.9,Minimal,Big,0.487179487,NO,NO,Brock Ryan,Benjamin Smith,8,Heavy,YES,0
+591,31/1/23,Kembla Grange,New South Wales,7,Jewellery,3.6,2.8,0.8,Minimal,Decent,0.222222222,NO,NO,Sam Clipperton,James Cummings,8,Heavy,YES,0
+592,1/2/23,Canterbury,New South Wales,1,Militarize,4.4,6.5,-2.1,Negative,None/Negative,-0.477272727,NO,NO,James McDonald,C J Waller,4,Good,NO,0
+593,1/2/23,Canterbury,New South Wales,2,Alfano,6,3.1,2.9,Small,Big,0.483333333,YES,NO,Tyler Schiller,A J Cummings,4,Good,YES,1
+594,1/2/23,Canterbury,New South Wales,3,Byron Belle,6.5,6,0.5,Minimal,Minimal,0.076923077,NO,NO,Jason Collett,J G Sargent,4,Good,NO,0
+595,1/2/23,Canterbury,New South Wales,4,Dynamic Impact,4,3.2,0.8,Minimal,Decent,0.2,NO,YES,Jason Collett,Bjorn Baker,4,Good,NO,1
+596,1/2/23,Canterbury,New South Wales,5,Field Legend,7,8,-1,Negative,None/Negative,-0.142857143,NO,NO,Brenton Avdulla,C J Waller,4,Good,NO,0
+597,1/2/23,Canterbury,New South Wales,6,Mystic Mermaid,5.5,3.3,2.2,Small,Big,0.4,NO,YES,James McDonald,C J Waller,4,Good,YES,1
+598,1/2/23,Canterbury,New South Wales,7,Recommendation,5,4.6,0.4,Minimal,Minimal,0.08,NO,NO,Tim Clark,C Maher & D Eustace,4,Good,YES,0
+599,1/2/23,Murray Bridge,South Australia,1,Kate's Rebel,2,2.9,-0.9,Negative,None/Negative,-0.45,NO,NO,Justin Potter,S G Padman,4,Good,NO,0
+600,1/2/23,Murray Bridge,South Australia,2,Lady Wairua,5,2.3,2.7,Small,Big,0.54,NO,NO,Kayla Crowther,P Stokes,4,Good,YES,0
+601,1/2/23,Murray Bridge,South Australia,3,Andrew's Memory,6,17,-11,Negative,None/Negative,-1.833333333,NO,NO,Jeffrey Maund,D Shepherd,4,Good,NO,0
+602,1/2/23,Murray Bridge,South Australia,4,Frankel Star,2.25,2.25,0,No Change,None/Negative,0,NO,NO,Caitlyn Munro,M J Seyers,4,Good,YES,0
+603,1/2/23,Murray Bridge,South Australia,5,Club Punter,7,8,-1,Negative,None/Negative,-0.142857143,NO,NO,Britney Wong,R Day,4,Good,NO,0
+604,1/2/23,Murray Bridge,South Australia,6,Little Rich Boy,4.4,2.1,2.3,Small,Big,0.522727273,YES,NO,Barend Vorster,Grant Young,4,Good,YES,1
+605,1/2/23,Murray Bridge,South Australia,7,Rubble,3.9,3,0.9,Minimal,Decent,0.230769231,NO,NO,Kayla Crowther,K Byrnes,4,Good,YES,0
+606,2/2/23,Pakenham,Victoria,1,Veight,2.6,5.5,-2.9,Negative,None/Negative,-1.115384615,NO,NO,Damian Lane,T & C McEvoy,7,Soft,NO,0
+607,2/2/23,Pakenham,Victoria,2,Crimson Light,3,3.6,-0.6,Negative,None/Negative,-0.2,NO,NO,Carleen Hefel,M C Kent,7,Soft,NO,0
+608,2/2/23,Pakenham,Victoria,3,Dodi,5,4.8,0.2,Minimal,Minimal,0.04,NO,NO,Ethan Brown,C Maher & D Eustace,7,Soft,NO,0
+609,2/2/23,Pakenham,Victoria,4,Wango Award,11,6,5,Small,Big,0.454545455,NO,YES,Jack Hill,K L Corstens,7,Soft,NO,1
+610,2/2/23,Pakenham,Victoria,5,Bel Air,4,3.4,0.6,Minimal,Minimal,0.15,NO,NO,Ben Melham,A & S Freedman,7,Soft,NO,0
+611,2/2/23,Pakenham,Victoria,6,Irish Mist,17,13,4,Small,Decent,0.235294118,NO,NO,John Allen,Matthew Smeardon,7,Soft,NO,0
+612,2/2/23,Pakenham,Victoria,7,Seafield Road,12,4.4,7.6,Big,Huge,0.633333333,NO,NO,Josh Cartwright,N J Harnett,7,Soft,NO,0
+613,2/2/23,Pakenham,Victoria,8,Cable De Vega,5.5,4,1.5,Minimal,Decent,0.272727273,NO,NO,Daniel Stackhouse,Michael Huglin,7,Soft,NO,0
+614,2/2/23,Ipswich,Queensland,1,Top Fun,6,1.8,4.2,Small,Huge,0.7,YES,NO,Ben Thompson,T & M Sears,4,Good,YES,1
+615,2/2/23,Ipswich,Queensland,2,Spanish King,4.8,4.2,0.6,Minimal,Minimal,0.125,NO,YES,Samantha Collett,Marcus Wilson,4,Good,NO,1
+616,2/2/23,Ipswich,Queensland,3,Enterprise Lassie,8.5,7.5,1,Minimal,Minimal,0.117647059,NO,NO,Tegan Harrison,J D Shelton,4,Good,NO,0
+617,2/2/23,Ipswich,Queensland,4,Ned's Gully,1.85,1.45,0.4,Minimal,Decent,0.216216216,YES,NO,Jaden Lloyd,P J Wallace,4,Good,YES,1
+618,2/2/23,Ipswich,Queensland,5,Granite Prince,67,27,40,Huge,Huge,0.597014925,YES,NO,Isabella Rabjones,Michael Nolan,4,Good,NO,1
+619,2/2/23,Ipswich,Queensland,6,Heleva Deel,3.9,2,1.9,Minimal,Big,0.487179487,YES,NO,Cody Collis,M A Currie,4,Good,YES,1
+620,2/2/23,Ipswich,Queensland,7,Milagro,6,4.6,1.4,Minimal,Decent,0.233333333,NO,YES,James Orman,Rochelle Pereira,4,Good,NO,1
+621,2/2/23,Ipswich,Queensland,8,Stormtrooper,8,6,2,Minimal,Decent,0.25,NO,NO,M S Champkin,Brett Sturgess,4,Good,NO,0
+622,3/2/23,Townsville,Queensland,1,Enuff Gold,3.6,3,0.6,Minimal,Minimal,0.166666667,NO,NO,Carl Spry,Bonnie Thompson,5,Soft,YES,0
+623,3/2/23,Townsville,Queensland,2,Bravio,6,7.5,-1.5,Negative,None/Negative,-0.25,NO,NO,Justin Stanley,Michael Geaney,5,Soft,NO,0
+624,3/2/23,Townsville,Queensland,3,Siberian Route,3.7,2.25,1.45,Minimal,Big,0.391891892,YES,NO,Justin Stanley,J H Manzelmann,5,Soft,YES,1
+625,3/2/23,Townsville,Queensland,4,Kick On Command,1.22,1.14,0.08,Negative,Minimal,0.06557377,NO,YES,Ashley Butler,Clinton Taylor,5,Soft,YES,1
+626,3/2/23,Townsville,Queensland,5,Isis Carmella,2.9,1.95,0.95,Minimal,Decent,0.327586207,NO,YES,Tahlia Fenlon,K J Miller,5,Soft,YES,1
+627,3/2/23,Townsville,Queensland,6,Minokawa,1.95,1.35,0.6,Minimal,Decent,0.307692308,YES,NO,Justin Stanley,Clinton Taylor,5,Soft,YES,1
+628,3/2/23,Townsville,Queensland,7,Count of Carford,4.2,2.35,1.85,Minimal,Big,0.44047619,YES,NO,Nathan Day,S J Royes,5,Soft,YES,1
+629,3/2/23,Townsville,Queensland,8,Xtrayya,11,2.9,8.1,Big,Huge,0.736363636,YES,NO,Ashley Butler,A M Comerford,5,Soft,YES,1
+630,3/2/23,Esperance,Western Australia,1,Mrs Kangaroo,4,4.8,-0.8,Negative,None/Negative,-0.2,NO,NO,Victoria Corver,H Harding,4,Good,NO,0
+631,3/2/23,Esperance,Western Australia,2,Special Virtue,7,9,-2,Negative,None/Negative,-0.285714286,NO,NO,Victoria Corver,H Harding,4,Good,NO,0
+632,3/2/23,Esperance,Western Australia,3,Yamatai,23,16,7,Big,Decent,0.304347826,NO,NO,Simone Altieri,Georgia Grant,4,Good,NO,0
+633,3/2/23,Esperance,Western Australia,4,Al Quepone,6,4.5,1.5,Minimal,Decent,0.25,NO,YES,Renee Forrest,D R Harrison,4,Good,NO,1
+634,3/2/23,Esperance,Western Australia,5,Lucie Manette,12,26,-14,Negative,None/Negative,-1.166666667,NO,NO,Kate Witten,B H Hyde,4,Good,NO,0
+635,3/2/23,Esperance,Western Australia,6,Fair Justice,4.6,3.4,1.2,Minimal,Decent,0.260869565,NO,YES,Natasha Faithfull,R F Brown,4,Good,YES,1
+636,3/2/23,Esperance,Western Australia,7,Market Stryke,2.8,3.3,-0.5,Negative,None/Negative,-0.178571429,NO,NO,Jarrad Noske,Josh Brown,4,Good,YES,0
+637,3/2/23,Esperance,Western Australia,8,Wheatstack Thief,6,4.6,1.4,Minimal,Decent,0.233333333,NO,NO,Kayla Cross,F J Hossell,4,Good,NO,0
+638,4/2/23,Randwick,New South Wales,1,Madeira Sunrise,5,3.2,1.8,Minimal,Decent,0.36,NO,NO,James McDonald,Michael Freedman,4,Good,NO,0
+639,4/2/23,Randwick,New South Wales,2,Lekvarte,6.5,5.5,1,Minimal,Minimal,0.153846154,NO,NO,Jay Ford,Joseph Pride,4,Good,NO,0
+640,4/2/23,Randwick,New South Wales,3,Dr. Evil,4.4,4.8,-0.4,Negative,None/Negative,-0.090909091,NO,NO,James McDonald,J A Steinmetz,4,Good,YES,0
+641,4/2/23,Randwick,New South Wales,4,Super Extreme,6.5,6,0.5,Minimal,Minimal,0.076923077,NO,NO,James McDonald,Cameron Crockett,4,Good,NO,0
+642,4/2/23,Randwick,New South Wales,5,Sonora,6.5,5.5,1,Minimal,Minimal,0.153846154,NO,NO,Brenton Avdulla,C Maher & D Eustace,4,Good,NO,0
+643,4/2/23,Randwick,New South Wales,6,Banju,2.8,1.9,0.9,Minimal,Decent,0.321428571,YES,NO,Reece Jones,Lyle Chandler,4,Good,YES,1
+644,4/2/23,Randwick,New South Wales,7,Remarque,7,3.5,3.5,Small,Big,0.5,NO,YES,Tim Clark,M & W & J Hawkes,4,Good,YES,1
+645,4/2/23,Randwick,New South Wales,8,Aft Cabin,2,2.2,-0.2,Negative,None/Negative,-0.1,NO,NO,James McDonald,James Cummings,4,Good,YES,0
+646,4/2/23,Randwick,New South Wales,9,Claim The Crown,18,31,-13,Negative,None/Negative,-0.722222222,NO,NO,Chad Schofield,Annabel Neasham,4,Good,NO,0
+647,4/2/23,Randwick,New South Wales,10,Munitions,18,9,9,Big,Big,0.5,NO,NO,Dylan Gibbons,Richard Litt,4,Good,NO,0
+648,4/2/23,Sandown,Victoria,1,Tycoon Humma,23,13,10,Big,Big,0.434782609,YES,NO,Matthew Cartwright,John McArdle,6,Soft,NO,1
+649,4/2/23,Sandown,Victoria,2,Zulfiqar,7.5,7.5,0,No Change,None/Negative,0,NO,NO,Ben Melham,James Cummings,6,Soft,NO,0
+650,4/2/23,Sandown,Victoria,3,Hennessey Lad,2.8,2.5,0.3,Minimal,Minimal,0.107142857,NO,NO,Carleen Hefel,P G Moody,6,Soft,YES,0
+651,4/2/23,Sandown,Victoria,4,Benedetta,2.6,2,0.6,Minimal,Decent,0.230769231,YES,NO,Daniel Stackhouse,Jason Warren,6,Soft,YES,1
+652,4/2/23,Sandown,Victoria,5,British Columbia,4.2,4.2,0,No Change,None/Negative,0,NO,NO,Jordan Childs,G M Begg,6,Soft,NO,0
+653,4/2/23,Sandown,Victoria,6,Carlisle,35,31,4,Small,Minimal,0.114285714,NO,NO,Jarrod Fry,J F Moloney,6,Soft,NO,0
+654,4/2/23,Sandown,Victoria,7,Wrote To Arataki,7,3,4,Small,Big,0.571428571,NO,YES,Jamie Kah,M J Williams,6,Soft,YES,1
+655,4/2/23,Sandown,Victoria,8,Right You Are,4.8,3.9,0.9,Minimal,Minimal,0.1875,NO,NO,Ethan Brown,C Maher & D Eustace,6,Soft,NO,0
+656,4/2/23,Sandown,Victoria,9,Glory Daze,6.5,7.5,-1,Negative,None/Negative,-0.153846154,NO,NO,Mark Zahra,C Maher & D Eustace,6,Soft,NO,0
+657,4/2/23,Kyneton,Victoria,1,Man Of Heart,4.2,6.5,-2.3,Negative,None/Negative,-0.547619048,NO,NO,Josh Cartwright,D T O'Brien,7,Soft,NO,0
+658,4/2/23,Kyneton,Victoria,2,Sweet Refuge,41,14,27,Huge,Huge,0.658536585,YES,NO,Mitchell Aitken,Liam Howley,7,Soft,NO,1
+659,4/2/23,Kyneton,Victoria,3,Prancing Queen,7,3.1,3.9,Small,Big,0.557142857,NO,NO,Ryan Houston,M J Ellerton,7,Soft,NO,0
+660,4/2/23,Kyneton,Victoria,4,Hell Be Coming,23,10,13,Huge,Big,0.565217391,NO,NO,Sheridan Clarke,Clayton Douglas,7,Soft,NO,0
+661,4/2/23,Kyneton,Victoria,5,Gold Logie,4.4,4,0.4,Minimal,Minimal,0.090909091,NO,NO,Mark Pegus,Mark Pegus,7,Soft,NO,0
+662,4/2/23,Kyneton,Victoria,6,Sestillia,10,6,4,Small,Big,0.4,NO,YES,Sheridan Clarke,A MacPherson,7,Soft,NO,1
+663,4/2/23,Kyneton,Victoria,7,Catskill Mountain,3.6,2,1.6,Minimal,Big,0.444444444,NO,YES,Dean Holland,Andrew Bobbin,7,Soft,YES,1
+664,4/2/23,Kyneton,Victoria,8,Hollerween,6,5,1,Minimal,Minimal,0.166666667,NO,NO,Lachlan Overall,Julius Sandhu,7,Soft,NO,0
+665,4/2/23,Kyneton,Victoria,9,Mungo Jerry,16,12,4,Small,Decent,0.25,NO,NO,Jack Hill,C F Hyland,7,Soft,NO,0
+666,7/2/23,Kembla Grange,New South Wales,1,Sulwaan,2.8,2.15,0.65,Minimal,Decent,0.232142857,YES,NO,Brock Ryan,Benjamin Smith,4,Good,YES,1
+667,7/2/23,Kembla Grange,New South Wales,2,Dancing Alone,3.5,3,0.5,Minimal,Minimal,0.142857143,NO,YES,Alysha Collett,Bryce Heys,4,Good,NO,1
+668,7/2/23,Kembla Grange,New South Wales,3,Septime,5,3.7,1.3,Minimal,Decent,0.26,NO,NO,Andrew Adkins,Jean Dubois,4,Good,NO,0
+669,7/2/23,Kembla Grange,New South Wales,4,Avebury,2.4,1.8,0.6,Minimal,Decent,0.25,NO,NO,Brenton Avdulla,J A O'Shea,4,Good,YES,0
+670,7/2/23,Kembla Grange,New South Wales,5,Diaco,11,16,-5,Negative,None/Negative,-0.454545455,NO,NO,Regan Bayliss,C J Waller,4,Good,NO,0
+671,7/2/23,Kembla Grange,New South Wales,6,Spats Pav Bowie,8,5.5,2.5,Small,Decent,0.3125,NO,NO,Jess Taylor,J M Austin,4,Good,NO,0
+672,7/2/23,Kembla Grange,New South Wales,7,Spaltet,6,2.6,3.4,Small,Big,0.566666667,NO,YES,Chad Schofield,Annabel Neasham,4,Good,YES,1
+673,8/2/23,Warwick Farm,New South Wales,1,Tom Kitten,3.3,5,-1.7,Negative,None/Negative,-0.515151515,NO,NO,Nash Rawiller,James Cummings,4,Good,NO,0
+674,8/2/23,Warwick Farm,New South Wales,2,Lomandra,8,7,1,Minimal,Minimal,0.125,NO,YES,Jason Collett,M & W & J Hawkes,4,Good,NO,1
+675,8/2/23,Warwick Farm,New South Wales,3,Wollombi,4.6,5.5,-0.9,Negative,None/Negative,-0.195652174,NO,NO,Sam Clipperton,P & P Snowden,4,Good,NO,0
+676,8/2/23,Warwick Farm,New South Wales,4,Mikasa,5.5,6.5,-1,Negative,None/Negative,-0.181818182,NO,NO,Brock Ryan,John Thompson,4,Good,NO,0
+677,8/2/23,Warwick Farm,New South Wales,5,Cotton Fingers,5,3.6,1.4,Minimal,Decent,0.28,NO,YES,James McDonald,G Ryan & S Alexiou,4,Good,YES,1
+678,8/2/23,Warwick Farm,New South Wales,6,Jayanthi,6,6,0,No Change,None/Negative,0,NO,NO,James McDonald,C Maher & D Eustace,4,Good,NO,0
+679,8/2/23,Warwick Farm,New South Wales,7,Mission Value,5.5,3.6,1.9,Minimal,Decent,0.345454545,NO,YES,Tyler Schiller,Mark Newnham,4,Good,YES,1
+680,9/2/23,Pakenham,Victoria,1,Dictionary,27,13,14,Huge,Big,0.518518519,YES,NO,Patrick Moloney,J F Moloney,4,Good,NO,1
+681,9/2/23,Pakenham,Victoria,2,Alluring Rebel,3.5,2.8,0.7,Minimal,Decent,0.2,NO,NO,Ethan Brown,M C Kent,4,Good,YES,0
+682,9/2/23,Pakenham,Victoria,3,Eternal Flame,2.7,1.85,0.85,Minimal,Decent,0.314814815,NO,YES,Ethan Brown,M C Kent,4,Good,YES,1
+683,9/2/23,Pakenham,Victoria,4,Marble Arch,2.2,1.7,0.5,Minimal,Decent,0.227272727,NO,NO,Daniel Stackhouse,Ben & J D Hayes,4,Good,YES,0
+684,9/2/23,Pakenham,Victoria,5,Lady Di Di,3,2.6,0.4,Minimal,Minimal,0.133333333,NO,YES,Jamie Kah,C I Brown,4,Good,YES,1
+685,9/2/23,Pakenham,Victoria,6,Roma's Wish,7,5.5,1.5,Minimal,Decent,0.214285714,NO,NO,Joe Bowditch,Leanne Doyle,4,Good,NO,0
+686,9/2/23,Pakenham,Victoria,7,Aminikii,5.5,4.5,1,Minimal,Minimal,0.181818182,NO,NO,Ethan Brown,Jason Warren,4,Good,NO,0
+687,9/2/23,Pakenham,Victoria,8,Piaggio,11,5,6,Big,Big,0.545454545,NO,YES,Alana Kelly,G Eurell,4,Good,NO,1
+688,10/2/23,Canterbury,New South Wales,1,Were Da Ya Get It,5,7.5,-2.5,Negative,None/Negative,-0.5,NO,NO,Tom Marquand,Annabel Neasham,5,Soft,NO,0
+689,10/2/23,Canterbury,New South Wales,2,Songbird Serenade,6.5,4.8,1.7,Minimal,Decent,0.261538462,NO,YES,Chad Schofield,Richard Litt,5,Soft,NO,1
+690,10/2/23,Canterbury,New South Wales,3,Nicci's Fling,11,11,0,No Change,None/Negative,0,NO,NO,Dylan Gibbons,G Portelli,5,Soft,NO,0
+691,10/2/23,Canterbury,New South Wales,4,Ithadtobezou,23,26,-3,Negative,None/Negative,-0.130434783,NO,NO,Kerrin McEvoy,John Thompson,5,Soft,NO,0
+692,10/2/23,Canterbury,New South Wales,5,Zouson Boy,9,10,-1,Negative,None/Negative,-0.111111111,NO,NO,Brett Pebble,Brad Widdup,5,Soft,NO,0
+693,10/2/23,Canterbury,New South Wales,6,Regal Pom,4.2,3.6,0.6,Minimal,Minimal,0.142857143,NO,NO,Tom Marquand,Annabel Neasham,5,Soft,NO,0
+694,10/2/23,Canterbury,New South Wales,7,Dynamic Impact,5.5,4,1.5,Minimal,Decent,0.272727273,NO,NO,Jason Collett,Bjorn Baker,5,Soft,YES,0
+695,10/2/23,Canterbury,New South Wales,8,Dashing Legend,3.3,3.9,-0.6,Negative,None/Negative,-0.181818182,NO,NO,Brenton Avdulla,M & W & J Hawkes,5,Soft,YES,0
+696,11/2/23,Randwick,New South Wales,1,Café Millenium,11,14,-3,Negative,None/Negative,-0.272727273,NO,NO,Tom Marquand,J A O'Shea,4,Good,NO,0
+697,11/2/23,Randwick,New South Wales,2,Amarantz,8,6.5,1.5,Minimal,Minimal,0.1875,NO,NO,Tyler Schiller,Danielle Seib,4,Good,NO,0
+698,11/2/23,Randwick,New South Wales,3,Mabel,26,18,8,Big,Decent,0.307692308,NO,NO,Jason Collett,T J Bartley,4,Good,NO,0
+699,11/2/23,Randwick,New South Wales,4,Ascension,15,6.5,8.5,Big,Big,0.566666667,YES,NO,Brenton Avdulla,C Maher & D Eustace,4,Good,NO,1
+700,11/2/23,Randwick,New South Wales,5,Quantico,5.5,8.5,-3,Negative,None/Negative,-0.545454545,NO,NO,Kerrin McEvoy,J A O'Shea,4,Good,NO,0
+701,11/2/23,Randwick,New South Wales,6,Learning To Fly,3.8,3.7,0.1,Minimal,Minimal,0.026315789,NO,NO,Chad Schofield,Annabel Neasham,4,Good,YES,0
+702,11/2/23,Randwick,New South Wales,7,In Secret,2.35,1.95,0.4,Minimal,Minimal,0.170212766,NO,NO,Nash Rawiller,James Cummings,4,Good,YES,0
+703,11/2/23,Randwick,New South Wales,8,Anamoe,1.9,1.65,0.25,Minimal,Minimal,0.131578947,NO,YES,James McDonald,James Cummings,4,Good,YES,1
+704,11/2/23,Randwick,New South Wales,9,Po Kare Kare,13,19,-6,Negative,None/Negative,-0.461538462,NO,NO,Tyler Schiller,Bryce Heys,4,Good,NO,0
+705,11/2/23,Randwick,New South Wales,10,Think About It,3.5,4.4,-0.9,Negative,None/Negative,-0.257142857,NO,NO,Sam Clipperton,Joseph Pride,4,Good,NO,0
+706,11/2/23,Sandown,Victoria,1,So Unusual,4.4,3.7,0.7,Minimal,Minimal,0.159090909,NO,YES,Dean Holland,T & C McEvoy,3,Good,YES,1
+707,11/2/23,Sandown,Victoria,2,Glint Of Silver,23,12,11,Huge,Big,0.47826087,YES,NO,Blake Shinn,David Pfeiffer,3,Good,NO,1
+708,11/2/23,Sandown,Victoria,3,Barber,3.3,3.9,-0.6,Negative,None/Negative,-0.181818182,NO,NO,Jamie Kah,James Cummings,3,Good,NO,0
+709,11/2/23,Sandown,Victoria,4,Exploring,16,13,3,Small,Minimal,0.1875,NO,NO,Craig Williams,James Cummings,3,Good,NO,0
+710,11/2/23,Sandown,Victoria,6,Lofty Strike,7.5,9.5,-2,Negative,None/Negative,-0.266666667,NO,NO,Craig Newitt,Julius Sandhu,3,Good,NO,0
+711,11/2/23,Sandown,Victoria,7,Jacquinot,4.2,4,0.2,Minimal,Minimal,0.047619048,NO,NO,Damian Lane,M Price & M K Jnr,3,Good,NO,0
+712,11/2/23,Sandown,Victoria,8,Pounding,8,8,0,No Change,None/Negative,0,NO,NO,Jamie Kah,P G Moody,3,Good,NO,0
+713,12/2/23,Geraldton,Western Australia,1,Augusta Red,9,9,0,No Change,None/Negative,0,NO,NO,Troy Turner,A W Maley,3,Good,NO,0
+714,12/2/23,Geraldton,Western Australia,2,Jupiter Rising,6,4.2,1.8,Minimal,Decent,0.3,NO,YES,Lisa Staples,K Backshall,3,Good,NO,1
+715,12/2/23,Geraldton,Western Australia,3,Let Them All Talk,3.3,1.8,1.5,Minimal,Big,0.454545455,YES,NO,Troy Turner,A W Maley,3,Good,YES,1
+716,12/2/23,Geraldton,Western Australia,4,Westozi,4.2,4.2,0,No Change,None/Negative,0,NO,NO,Chris Nicoll,A L Bowtell,3,Good,NO,0
+717,12/2/23,Geraldton,Western Australia,5,Starchienne,1.8,1.55,0.25,Minimal,Minimal,0.138888889,NO,YES,Lisa Staples,A P Scally,3,Good,YES,1
+718,12/2/23,Geraldton,Western Australia,6,Traded Crown,15,17,-2,Negative,None/Negative,-0.133333333,NO,NO,Kate Witten,Kim Dupre,3,Good,NO,0
+719,12/2/23,Nowra,New South Wales,1,Temple Garden,3.9,8,-4.1,Negative,None/Negative,-1.051282051,NO,NO,Jeff Penza,M J Stephens,5,Soft,NO,0
+720,12/2/23,Nowra,New South Wales,2,Nonshalaant,2.45,3.1,-0.65,Negative,None/Negative,-0.265306122,NO,NO,Madeleine Wishart,G Portelli,5,Soft,NO,0
+721,12/2/23,Nowra,New South Wales,3,Smooth Sailing,4.8,4.2,0.6,Minimal,Minimal,0.125,NO,NO,Tom Sherry,Mark Newnham,5,Soft,NO,0
+722,12/2/23,Nowra,New South Wales,4,Scream,4.5,3.2,1.3,Minimal,Decent,0.288888889,NO,YES,Keagan Latham,Michael Freedman,5,Soft,NO,1
+723,12/2/23,Nowra,New South Wales,5,Westgrove,8,6,2,Minimal,Decent,0.25,NO,NO,Shaun Guymer,Stuart Warden,5,Soft,NO,0
+724,12/2/23,Nowra,New South Wales,6,Sweet Biscuit,5,3.4,1.6,Minimal,Decent,0.32,YES,NO,Jeff Penza,W A Hudd,5,Soft,YES,1
+725,12/2/23,Nowra,New South Wales,7,Vanburg,9.5,3.8,5.7,Big,Huge,0.6,NO,NO,Jay Ford,David Pfeiffer,5,Soft,NO,0
+726,13/2/23,Dubbo,New South Wales,1,Injada,6,6.5,-0.5,Negative,None/Negative,-0.083333333,NO,NO,Brooke Stower,S C Jones,5,Soft,NO,0
+727,13/2/23,Dubbo,New South Wales,2,Xtra Intent,4.5,4.2,0.3,Minimal,Minimal,0.066666667,NO,NO,Grant Buckley,R P Northam,5,Soft,NO,0
+728,13/2/23,Dubbo,New South Wales,3,Radegast,10,5,5,Small,Big,0.5,NO,YES,S Ingelse,M R Mulholland,5,Soft,NO,1
+729,13/2/23,Dubbo,New South Wales,4,Transplant,5.5,3.7,1.8,Minimal,Decent,0.327272727,YES,NO,J Pracey-Holmes,C Lundholm,5,Soft,YES,1
+730,13/2/23,Dubbo,New South Wales,5,Snowdrop,6,4.8,1.2,Minimal,Decent,0.2,NO,NO,Billy Cray,K Simpkins,5,Soft,NO,0
+731,13/2/23,Dubbo,New South Wales,6,Listen To The Band,2.1,2.5,-0.4,Negative,None/Negative,-0.19047619,NO,NO,J Pracey-Holmes,C Lundholm,5,Soft,YES,0
+732,13/2/23,Dubbo,New South Wales,7,Sharp Shock,4.6,2.9,1.7,Minimal,Decent,0.369565217,NO,YES,Grant Buckley,R P Northam,5,Soft,YES,1
+733,14/2/23,Hawkesbury,New South Wales,1,Stanislaus,2.9,2.5,0.4,Minimal,Minimal,0.137931034,NO,YES,Brenton Avdulla,James Cummings,5,Soft,YES,1
+734,14/2/23,Hawkesbury,New South Wales,2,Cable Tie,19,13,6,Big,Decent,0.315789474,NO,NO,Lee Magorrian,John Thompson,5,Soft,NO,0
+735,14/2/23,Hawkesbury,New South Wales,3,Bowie Of Dubai,13,13,0,No Change,None/Negative,0,NO,NO,Brock Ryan,R & L Price,5,Soft,NO,0
+736,14/2/23,Hawkesbury,New South Wales,4,Star Mission,6,9.5,-3.5,Negative,None/Negative,-0.583333333,NO,NO,Louise Day,Peter D Green,5,Soft,NO,0
+737,14/2/23,Hawkesbury,New South Wales,5,Sequestered,6,3.2,2.8,Small,Big,0.466666667,NO,YES,Sam Clipperton,James Cummings,5,Soft,NO,1
+738,14/2/23,Hawkesbury,New South Wales,6,Flower Press,9,7.5,1.5,Minimal,Minimal,0.166666667,NO,NO,Keagan Latham,Joseph Ible,5,Soft,NO,0
+739,14/2/23,Hawkesbury,New South Wales,7,Eyeque,5,4.2,0.8,Minimal,Minimal,0.16,NO,YES,Brenton Avdulla,John Thompson,5,Soft,YES,1
+740,14/2/23,Hawkesbury,New South Wales,8,Kiptanui,27,35,-8,Negative,None/Negative,-0.296296296,NO,NO,H Williams,Matthew Dale,5,Soft,NO,0
+741,15/2/23,Randwick,New South Wales,1,Extreme Spirit,7.5,5,2.5,Small,Decent,0.333333333,NO,NO,James McDonald,G Portelli,5,Soft,NO,0
+742,15/2/23,Randwick,New South Wales,2,Wategos,6.5,8,-1.5,Negative,None/Negative,-0.230769231,NO,NO,Kerrin McEvoy,Bjorn Baker,5,Soft,NO,0
+743,15/2/23,Randwick,New South Wales,3,Cut On A Dime,26,10,16,Huge,Huge,0.615384615,YES,NO,Nash Rawiller,Bryce Heys,5,Soft,NO,1
+744,15/2/23,Randwick,New South Wales,4,Distillate,17,18,-1,Negative,None/Negative,-0.058823529,NO,NO,Amy McLucas,Matthew Dale,5,Soft,NO,0
+745,15/2/23,Randwick,New South Wales,5,Kirkeby,7.5,9.5,-2,Negative,None/Negative,-0.266666667,NO,NO,Nash Rawiller,C J Waller,5,Soft,NO,0
+746,15/2/23,Randwick,New South Wales,6,Sanstoc,14,13,1,Minimal,Minimal,0.071428571,NO,NO,Tom Sherry,Mark Newnham,5,Soft,NO,0
+747,15/2/23,Randwick,New South Wales,7,Jupitus,6,3.2,2.8,Small,Big,0.466666667,NO,YES,James McDonald,C J Waller,5,Soft,YES,1
+748,15/2/23,Sandown,Victoria,1,Triggerific,12,11,1,Minimal,Minimal,0.083333333,NO,NO,Thomas Stockdale,L Tolson & L Proctor,3,Good,NO,0
+749,15/2/23,Sandown,Victoria,2,Freakofnature,6,5.5,0.5,Minimal,Minimal,0.083333333,NO,YES,Ethan Brown,Jason Warren,3,Good,NO,1
+750,15/2/23,Sandown,Victoria,3,Little Miss Kubi,8,6.5,1.5,Minimal,Minimal,0.1875,NO,NO,Ben Allen,C I Brown,3,Good,NO,0
+751,15/2/23,Sandown,Victoria,4,Pacific Ruby,2.6,2.25,0.35,Minimal,Minimal,0.134615385,NO,NO,Jamie Kah,C Maher & D Eustace,3,Good,YES,0
+752,15/2/23,Sandown,Victoria,5,Gargantuan,31,9.5,21.5,Huge,Huge,0.693548387,NO,YES,Jarrod Fry,Erin Maher,3,Good,NO,1
+753,15/2/23,Sandown,Victoria,6,Senegalia,2.5,3.5,-1,Negative,None/Negative,-0.4,NO,NO,Jamie Kah,C Maher & D Eustace,3,Good,YES,0
+754,15/2/23,Sandown,Victoria,7,Edith,2.2,2.05,0.15,Minimal,Minimal,0.068181818,NO,YES,Luke Nolen,P G Moody,3,Good,YES,1
+755,15/2/23,Sandown,Victoria,8,Shove Over,9.5,7.5,2,Minimal,Decent,0.210526316,NO,NO,Carleen Hefel,J F Moloney,3,Good,NO,0
+756,16/2/23,Ipswich,Queensland,1,Adelad,2.6,3.9,-1.3,Negative,None/Negative,-0.5,NO,NO,Ben Thompson,Tony & M Sears,3,Good,NO,0
+757,16/2/23,Ipswich,Queensland,2,Diana's Affair,2.8,2.6,0.2,Minimal,Minimal,0.071428571,NO,YES,James Orman,K M Schweida,3,Good,NO,1
+758,16/2/23,Ipswich,Queensland,3,Got The Vibe,13,6.5,6.5,Big,Big,0.5,YES,NO,G Cartwright,D L Freedman,3,Good,NO,1
+759,16/2/23,Ipswich,Queensland,4,Celestial Sol,19,6.5,12.5,Huge,Huge,0.657894737,YES,NO,Rikki Jamieson,H J Norman,3,Good,NO,1
+760,16/2/23,Ipswich,Queensland,5,Cabrinella,2.9,1.85,1.05,Minimal,Decent,0.362068966,NO,NO,Bailey Wheeler,Rochelle Pereira,3,Good,YES,0
+761,16/2/23,Ipswich,Queensland,6,Bulsara,12,13,-1,Negative,None/Negative,-0.083333333,NO,NO,Larry Cassidy,P Duff,3,Good,NO,0
+762,16/2/23,Ipswich,Queensland,7,Hearsay,2.15,1.85,0.3,Minimal,Minimal,0.139534884,NO,YES,Kyle Wilson-Taylor,Chris Munce,3,Good,YES,1
+763,16/2/23,Ipswich,Queensland,8,Magic Charlee,6.5,5.5,1,Minimal,Minimal,0.153846154,NO,NO,Bailey Wheeler,M A Currie,3,Good,NO,0
+764,16/2/23,Ipswich,Queensland,9,Devillain,31,11,20,Huge,Huge,0.64516129,NO,YES,Larry Cassidy,P Duff,3,Good,NO,1
+765,17/2/23,Mooney Valley,Victoria,1,No Secret,3.4,2.35,1.05,Minimal,Decent,0.308823529,NO,YES,Blake Shinn,M D Moroney,3,Good,YES,1
+766,17/2/23,Mooney Valley,Victoria,2,Tick Tock Lady,6,6,0,No Change,None/Negative,0,NO,NO,Jordan Childs,G M Begg,3,Good,NO,0
+767,17/2/23,Mooney Valley,Victoria,3,Euro Dandy,5,3.1,1.9,Minimal,Decent,0.38,NO,YES,Blake Shinn,Chris Calthorpe,3,Good,YES,1
+768,17/2/23,Mooney Valley,Victoria,4,Unflinching,3,4,-1,Negative,None/Negative,-0.333333333,NO,NO,Jett Stanley,A & S Freedman,3,Good,YES,0
+769,17/2/23,Mooney Valley,Victoria,5,Alverdun,3.6,3.5,0.1,Minimal,Minimal,0.027777778,NO,NO,Thomas Stockdale,T Busuttin & N Young,3,Good,YES,0
+770,17/2/23,Mooney Valley,Victoria,6,Wagon Wheel,12,3.5,8.5,Big,Huge,0.708333333,YES,NO,Jamie Kah,Aaron Purcell,3,Good,YES,1
+771,17/2/23,Mooney Valley,Victoria,7,Swords Drawn,5,7,-2,Negative,None/Negative,-0.4,NO,NO,Craig Williams,M D Moroney,3,Good,NO,0
+772,17/2/23,Mooney Valley,Victoria,8,Vongole,6,4.6,1.4,Minimal,Decent,0.233333333,NO,YES,Carleen Hefel,E Jusufovic,3,Good,NO,1
+773,17/2/23,Canterbury,New South Wales,1,Inhibitions,6.5,6,0.5,Minimal,Minimal,0.076923077,NO,NO,Kerrin McEvoy,James Cummings,4,Good,NO,0
+774,17/2/23,Canterbury,New South Wales,2,Windshadow,6,4,2,Minimal,Decent,0.333333333,NO,YES,Brenton Avdulla,C Maher & D Eustace,4,Good,NO,1
+775,17/2/23,Canterbury,New South Wales,3,Tavi Time,3.3,2.2,1.1,Minimal,Decent,0.333333333,NO,NO,Dylan Gibbons,K A Lees,4,Good,YES,0
+776,17/2/23,Canterbury,New South Wales,4,Miss Kojiki,13,14,-1,Negative,None/Negative,-0.076923077,NO,NO,Nash Rawiller,T S Howlett,4,Good,NO,0
+777,17/2/23,Canterbury,New South Wales,5,For Valour,3.1,2.8,0.3,Minimal,Minimal,0.096774194,NO,YES,Brett Pebble,G Waterhouse & A Bott,4,Good,YES,1
+778,17/2/23,Canterbury,New South Wales,6,Sophia's Magic,3.5,2.8,0.7,Minimal,Decent,0.2,NO,YES,Nash Rawiller,C J Waller,4,Good,YES,1
+779,17/2/23,Canterbury,New South Wales,7,Zanzibar Gem,3.3,2.25,1.05,Minimal,Decent,0.318181818,YES,NO,Dylan Gibbons,K A Lees,4,Good,YES,1
+780,17/2/23,Canterbury,New South Wales,8,Brudenell,5,5.5,-0.5,Negative,None/Negative,-0.1,NO,NO,Dylan Gibbons,K A Lees,4,Good,NO,0
+781,18/2/23,Rosehill,New South Wales,1,Blood River,34,13,21,Huge,Huge,0.617647059,YES,NO,Regan Bayliss,Danielle Seib,4,Good,NO,1
+782,18/2/23,Rosehill,New South Wales,2,Cheerful Legend,5,7,-2,Negative,None/Negative,-0.4,NO,NO,Jason Collett,Nathan Doyle,4,Good,NO,0
+783,18/2/23,Rosehill,New South Wales,3,Parisal,6.5,3.5,3,Small,Big,0.461538462,NO,NO,Zac Lloyd,James Cummings,4,Good,NO,0
+784,18/2/23,Rosehill,New South Wales,4,Cylinder,6.5,4.6,1.9,Minimal,Decent,0.292307692,NO,YES,Brenton Avdulla,James Cummings,4,Good,NO,1
+785,18/2/23,Rosehill,New South Wales,5,Lindermann,13,8,5,Small,Decent,0.384615385,NO,YES,Nash Rawiller,C J Waller,4,Good,NO,1
+786,18/2/23,Rosehill,New South Wales,6,Electric Girl,10,8,2,Minimal,Decent,0.2,NO,YES,Zac Lloyd,M & W & J Hawkes,4,Good,NO,1
+787,18/2/23,Rosehill,New South Wales,7,King Frankel,4,2.45,1.55,Minimal,Decent,0.3875,YES,NO,Tyler Schiller,Mark Newnham,4,Good,YES,1
+788,18/2/23,Rosehill,New South Wales,8,Osipenko,8,8,0,No Change,None/Negative,0,NO,NO,Nash Rawiller,C J Waller,4,Good,NO,0
+789,18/2/23,Rosehill,New South Wales,9,Zeyrek,23,27,-4,Negative,None/Negative,-0.173913043,NO,NO,Jason Collett,M & W & J Hawkes,4,Good,NO,0
+790,18/2/23,Rosehill,New South Wales,10,Andermatt,5,5,0,No Change,None/Negative,0,NO,NO,Zac Lloyd,James Cummings,4,Good,NO,0
+791,18/2/23,Flemington,Victoria,1,So You See,7.5,7,0.5,Minimal,Minimal,0.066666667,NO,YES,Jye McNeil,M D Moroney,3,Good,NO,1
+792,18/2/23,Flemington,Victoria,2,Wollombi,13,12,1,Minimal,Minimal,0.076923077,NO,YES,Damien Oliver,P & P Snowden,3,Good,NO,1
+793,18/2/23,Flemington,Victoria,3,Maharba,6,3.2,2.8,Small,Big,0.466666667,NO,YES,Damian Lane,G M Begg,3,Good,YES,1
+794,18/2/23,Flemington,Victoria,4,Nobel Heights,9,10,-1,Negative,None/Negative,-0.111111111,NO,NO,Damian Lane,Matthew Cumani,3,Good,NO,0
+795,18/2/23,Flemington,Victoria,5,Annavisto,2.6,2.15,0.45,Minimal,Minimal,0.173076923,NO,YES,Jamie Kah,M Price & M K Jnr,3,Good,YES,1
+796,18/2/23,Flemington,Victoria,6,Elliptical,6,7,-1,Negative,None/Negative,-0.166666667,NO,NO,Blake Shinn,A & S Freedman,3,Good,NO,0
+797,18/2/23,Flemington,Victoria,7,Coolangatta,7.5,9,-1.5,Negative,None/Negative,-0.2,NO,NO,Jamie Kah,C Maher & D Eustace,3,Good,NO,0
+798,18/2/23,Flemington,Victoria,8,Scallopini,8.5,7,1.5,Minimal,Minimal,0.176470588,NO,NO,Damian Lane,S O'Dea & M Hoysted,3,Good,NO,0
+799,18/2/23,Flemington,Victoria,9,D'jumbuck,7.5,3.6,3.9,Small,Big,0.52,YES,NO,Blake Shinn,Brian McGrath,3,Good,NO,1
+800,20/2/23,Warrnambool,Victoria,1,Pireonti,2.7,1.85,0.85,Minimal,Decent,0.314814815,NO,YES,John Allen,T Busuttin & N Young,4,Good,YES,1
+801,20/2/23,Warrnambool,Victoria,2,Hooah Havana,3.3,2.9,0.4,Minimal,Minimal,0.121212121,NO,NO,Jarrod Fry,L Smith,4,Good,NO,0
+802,20/2/23,Warrnambool,Victoria,3,Captain Britain,4.2,2.5,1.7,Minimal,Big,0.404761905,YES,NO,Beau Mertens,L Smith,4,Good,YES,1
+803,20/2/23,Warrnambool,Victoria,4,Ripple Effect,8.5,6,2.5,Small,Decent,0.294117647,NO,NO,Dean Yendall,M J Williams,4,Good,NO,0
+804,20/2/23,Warrnambool,Victoria,5,Torobeel Muriel,18,9.5,8.5,Big,Big,0.472222222,YES,NO,Dean Holland,Symon Wilde,4,Good,NO,1
+805,20/2/23,Warrnambool,Victoria,6,Mawallock,3.6,3.8,-0.2,Negative,None/Negative,-0.055555556,NO,NO,Lachlan Overall,L Smith,4,Good,NO,0
+806,20/2/23,Warrnambool,Victoria,7,Coastal Town,4,3.6,0.4,Minimal,Minimal,0.1,NO,NO,Dean Yendall,Symon Wilde,4,Good,NO,0
